@@ -1,8 +1,17 @@
-const db = require('../database/db.json');
+const db = require('../model/Models');
 const spanishController = {};
 
 spanishController.getSpanishWords = async(req, res, next) => {
-    const query = 
+   const { words } = req.body;
+   try{
+    const result = await db.query(words)
+    console.log(result)
+    res.locals.words = result.words;
+    return next()
+   }catch(e){
+    return next(e)
+   }
+   
 }
 
 module.exports = spanishController;

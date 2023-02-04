@@ -1,8 +1,44 @@
-[
-      {
-         "english": "hello",
-      "translation": {"spanish": "hola", "spanishWithout": "hola" }
-    },  
-      { "english": "goodbye", "spanish": "adiós", "spanishWithout": "adios" },
-      { "english": "house", "spanish": "casa", "spanishWithout": "casa" }
-    ]
+{
+  "words": {
+    "azúcar": {
+      "translations": [
+        "sugar"
+      ]
+    },
+    "café": {
+      "translations": [
+        "coffee"
+      ]
+    },
+    "carne": {
+      "translations": [
+        "meat"
+      ]
+    },
+    "con": {
+      "translations": [
+        "with"
+      ]
+    },
+    "cuenta": {
+      "translations": [
+        "bill"
+      ]
+    },
+    "de": {
+      "translations": [
+        "from"
+      ]
+    },
+    "dos": {
+      "translations": [
+        "two"
+      ]
+    },
+    "ensalada": {
+      "translations": [
+        "salad"
+      ]
+    }
+  }
+}

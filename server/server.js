@@ -1,7 +1,7 @@
 //module setups
 const path = require('path');
 const express = require('express');
-const spanishController = require('./controllers/spanishController')
+// const spanishController = require('./controllers/spanishController')
 
 const app = express();
 
@@ -28,10 +28,9 @@ app.use('/api', apiRouter);
 /**
  * CRUD 
  */
-app.get('/', spanishController.getSpanishWords, (req, res) => {
+app.get('/', (req, res) => {
   return res.status(200).sendFile(path.join(__dirname, '../index.html'));
 });
-
 
 // catch-all route handler for any requests to an unknown route
 app.use((req, res) => res.status(404).send('This is not the page you\'re looking for...'));
