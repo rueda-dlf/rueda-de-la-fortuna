@@ -1,7 +1,7 @@
 {
-  "name": "project-solo",
+  "name": "rueda-de-la-fortuna",
   "version": "1.0.0",
-  "description": "book quote storage app",
+  "description": "Spanish Learning Game",
   "main": "server/server.js",
   "scripts": {
     "start": "NODE_ENV=production nodemon server/server.js",
@@ -11,12 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "./.git"
+    "url": "https://github.com/tasselled-wobbegong-ecri/rueda-de-la-fortuna.git"
   },
-  "author": "Paul Davey",
+  "author": "tasselled-wobbegong",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
+    "mongodb": "^5.0.0",
+    "mongoose": "^6.9.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router": "^6.8.0",
@@ -35,6 +37,8 @@
     "html-webpack-plugin": "^5.5.0",
     "nodemon": "^2.0.20",
     "prettier": "2.8.3",
+    "sass": "^1.58.0",
+    "sass-loader": "^13.2.0",
     "style-loader": "^3.3.1",
     "webpack": "^5.75.0",
     "webpack-cli": "^5.0.1",
