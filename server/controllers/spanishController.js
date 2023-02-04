@@ -1,4 +1,5 @@
-const db = require('../model/Models');
+//const db = require('../model/Models');
+const db = require('./database/db.json')
 const spanishController = {};
 
 spanishController.getSpanishWords = async(req, res, next) => {
