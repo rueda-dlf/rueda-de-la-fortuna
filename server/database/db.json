@@ -1,0 +1,44 @@
+{
+  "words": [
+    "azúcar": {
+      "translations": [
+        "sugar"
+      ]
+    },
+    "café": {
+      "translations": [
+        "coffee"
+      ]
+    },
+    "carne": {
+      "translations": [
+        "meat"
+      ]
+    },
+    "con": {
+      "translations": [
+        "with"
+      ]
+    },
+    "cuenta": {
+      "translations": [
+        "bill"
+      ]
+    },
+    "de": {
+      "translations": [
+        "from"
+      ]
+    },
+    "dos": {
+      "translations": [
+        "two"
+      ]
+    },
+    "ensalada": {
+      "translations": [
+        "salad"
+      ]
+    }
+  ]
+}
