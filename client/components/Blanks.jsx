@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 // state passed from Board via props
 // foreignWord
 // timeRemaining
@@ -10,34 +11,32 @@ function Blanks(props) {
     const [blanksArray, setBlanksArray] = useState([]);
     // split all characters from foreign word into an array
     const charArray = props.foreignWord.split('');
-    //console.log(charArray);
     // code to reveal letters as time elapses
     // create array that will hold characters to hide
     const [hiddenChars, setHiddenChars] = useState([]);
 
     useEffect(() => {
       // push all indices that aren't spaces into the hiddenChars array
+      let tempArray = [];
       for (let i = 0; i < charArray.length; i++) {
-        let tempArray = [];
         if (charArray[i] !== ' ') tempArray.push(i);
-        setHiddenChars(tempArray);
-        //console.log('creating hiddenChars array: ', hiddenChars);
       }
+      setHiddenChars(tempArray);
     }, []);
-    const letterCount = hiddenChars.length;
 
     useEffect(() => {
+      const letterCount = props.foreignWord.trim().length;
       // between 12 seconds and 2 seconds, progressively remove characters
       let pctTimeElapsed = (12 - props.timeRemaining) / 10;
       // progressively reveal charcaters until half are revealed
       let pctCharsRevealed =
-        (letterCount.length - hiddenChars.length) / (letterCount.length / 2);
+        (letterCount - hiddenChars.length) / (letterCount / 2);
       // if more time has elapsed than characters have been revealed, remove an element from the hidden array
       if (pctTimeElapsed >= pctCharsRevealed && pctCharsRevealed < 1) {
         const tempArray = [...hiddenChars];
         const tempIndex = Math.floor(Math.random() * tempArray.length);
-        setHiddenChars(tempArray.splice(tempIndex, 1));
-        //console.log('updating hiddenChars array');
+        tempArray.splice(tempIndex, 1);
+        setHiddenChars(tempArray);
       }
     }, [props.timeRemaining]);
 
@@ -59,7 +58,6 @@ function Blanks(props) {
             </div>
           );
       }
-      //console.log('setting blanks array');
       setBlanksArray(result);
     }, [hiddenChars]);
 

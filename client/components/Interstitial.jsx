@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from 'react';
-
+/* eslint-disable react/prop-types */
+import React, { useEffect } from 'react';
 
 function Interstitial(props) {
   const currEnglishWord = props.previousEnglishWord;
@@ -12,8 +12,8 @@ function Interstitial(props) {
   useEffect(() => {
     setTimeout(() => {
       if (props.roundNumber > 10) {
-       props.setGameOver(true);
-      }else{
+        props.setGameOver(true);
+      } else {
         props.setScore({ totalScore: props.score.totalScore, latestScore: 0 });
         props.setInterstitial(false);
       }
