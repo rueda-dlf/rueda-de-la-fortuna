@@ -1,14 +1,3 @@
-// const dictionarySchema = new Schema({
-//   words: {
-//     type: Map,
-//     of: {
-//       translations: [String]
-//     }
-//   }
-// });
-
-
-
 {"agua": {
   "translations": [
     "Water"
@@ -57,11 +46,6 @@
         "hombre": {
           "translations": [
             "men"
-          ]
-        },
-        "la": {
-          "translations": [
-            "the"
           ]
         },
         "leche": {
@@ -199,11 +183,6 @@
             "forgiveness"
           ]
         },
-        "sí": {
-          "translations": [
-            "Yeah"
-          ]
-    },
         "aeropuerto": {
           "translations": [
             "airport"
@@ -279,19 +258,9 @@
             "bag"
           ]
         },
-        "museo": {
-          "translations": [
-            "museum"
-          ]
-        },
         "por favor": {
           "translations": [
             "please"
-          ]
-        },
-        "reserva": {
-          "translations": [
-            "booking"
           ]
         },
         "supermercado": {
@@ -302,11 +271,6 @@
         "tren": {
           "translations": [
             "train"
-          ]
-        },
-        "tu": {
-          "translations": [
-            "your"
           ]
         },
         "azúcar": {
@@ -322,26 +286,6 @@
         "carne": {
           "translations": [
             "meat"
-          ]
-        },
-        "con": {
-          "translations": [
-            "with"
-          ]
-        },
-        "cuenta": {
-          "translations": [
-            "bill"
-          ]
-        },
-        "de": {
-          "translations": [
-            "from"
-          ]
-        },
-        "dos": {
-          "translations": [
-            "two"
           ]
         },
         "ensalada": {
@@ -364,24 +308,9 @@
             "desk"
           ]
         },
-        "naranja": {
-          "translations": [
-            "orange"
-          ]
-        },
-        "o": {
-          "translations": [
-            "either"
-          ]
-        },
         "pagar": {
           "translations": [
             "to pay"
-          ]
-        },
-        "para": {
-          "translations": [
-            "for"
           ]
         },
         "personas": {
@@ -409,11 +338,6 @@
             "restaurant"
           ]
         },
-        "sal": {
-          "translations": [
-            "Salt"
-          ]
-        },
         "sin": {
           "translations": [
             "without"
@@ -422,16 +346,6 @@
         "sándwich": {
           "translations": [
             "sandwich"
-          ]
-        },
-        "taza": {
-          "translations": [
-            "Bowl"
-          ]
-        },
-        "tomate": {
-          "translations": [
-            "tomatoes"
           ]
         },
         "tres": {
@@ -509,11 +423,6 @@
             "cat"
           ]
         },
-        "grande": {
-          "translations": [
-            "great"
-          ]
-        },
         "hermana": {
           "translations": [
             "sister"
@@ -557,11 +466,6 @@
         "padre": {
           "translations": [
             "dad"
-          ]
-        },
-        "perfecto": {
-          "translations": [
-            "perfect"
           ]
         },
         "perro": {
@@ -609,31 +513,6 @@
             "briefcase"
           ]
         },
-        "chaqueta": {
-          "translations": [
-            "jacket"
-          ]
-        },
-        "cinturón": {
-          "translations": [
-            "belt"
-          ]
-        },
-        "comprar": {
-          "translations": [
-            "purchase"
-          ]
-        },
-        "cómoda": {
-          "translations": [
-            "comfortable"
-          ]
-        },
-        "demasiado": {
-          "translations": [
-            "too"
-          ]
-        },
         "diferente": {
           "translations": [
             "different"
@@ -644,19 +523,9 @@
             "that"
           ]
         },
-        "este": {
-          "translations": [
-            "East"
-          ]
-        },
         "falda": {
           "translations": [
             "skirt"
-          ]
-        },
-        "favorita": {
-          "translations": [
-            "favorite"
           ]
         },
         "gris": {
@@ -672,11 +541,6 @@
         "regalo": {
           "translations": [
             "present"
-          ]
-        },
-        "reloj": {
-          "translations": [
-            "watch"
           ]
         },
         "rojo": {
@@ -704,39 +568,14 @@
             "green"
           ]
         },
-        "vestido": {
-          "translations": [
-            "dress"
-          ]
-        },
-        "clase": {
-          "translations": [
-            "class"
-          ]
-        },
-        "comprendo": {
-          "translations": [
-            "understand"
-          ]
-        },
         "computadora": {
           "translations": [
             "computer"
           ]
         },
-        "difícil": {
-          "translations": [
-            "hard"
-          ]
-        },
         "escribes": {
           "translations": [
             "you write"
-          ]
-        },
-        "escribir": {
-          "translations": [
-            "to write"
           ]
         },
         "escribo": {
@@ -749,19 +588,9 @@
             "school"
           ]
         },
-        "estudiar": {
-          "translations": [
-            "to study"
-          ]
-        },
         "estudias": {
           "translations": [
             "do you study"
-          ]
-        },
-        "estudio": {
-          "translations": [
-            "study"
           ]
         },
         "examen": {
@@ -799,31 +628,6 @@
             "book"
           ]
         },
-        "maestro": {
-          "translations": [
-            "teacher"
-          ]
-        },
-        "medicina": {
-          "translations": [
-            "medicine"
-          ]
-        },
-        "mucho": {
-          "translations": [
-            "a lot of"
-          ]
-        },
-        "no": {
-          "translations": [
-            "not"
-          ]
-        },
-        "pregunta": {
-          "translations": [
-            "Question"
-          ]
-        },
         "problema": {
           "translations": [
             "issue"
@@ -854,22 +658,12 @@
             "American"
           ]
         },
-        "china": {
-          "translations": [
-            "China"
-          ]
-        },
         "cuba": {
           "translations": [
             "Cuba"
           ]
         },
         "cubana": {
-          "translations": [
-            "Cuban"
-          ]
-        },
-        "cubano": {
           "translations": [
             "Cuban"
           ]
@@ -924,11 +718,6 @@
             "alive"
           ]
         },
-        "bien": {
-          "translations": [
-            "good"
-          ]
-        },
         "buenas tardes": {
           "translations": [
             "good evening"
@@ -977,11 +766,6 @@
         "hasta mañana": {
           "translations": [
             "until tomorrow"
-          ]
-        },
-        "mal": {
-          "translations": [
-            "wrong"
           ]
         },
         "ocupada": {
@@ -1039,11 +823,6 @@
             "ballpoint"
           ]
         },
-        "más": {
-          "translations": [
-            "plus"
-          ]
-        },
         "necesita": {
           "translations": [
             "needs to"
@@ -1099,11 +878,6 @@
             "tea"
           ]
         },
-        "usa": {
-          "translations": [
-            "uses"
-          ]
-        },
         "usar": {
           "translations": [
             "wear"
@@ -1112,11 +886,6 @@
         "usas": {
           "translations": [
             "you use"
-          ]
-        },
-        "uso": {
-          "translations": [
-            "use"
           ]
         },
         "baile": {
@@ -1152,11 +921,6 @@
         "divertida": {
           "translations": [
             "fun"
-          ]
-        },
-        "divertido": {
-          "translations": [
-            "funny"
           ]
         },
         "domingo": {
@@ -1269,11 +1033,6 @@
             "eat"
           ]
         },
-        "estudia": {
-          "translations": [
-            "study"
-          ]
-        },
         "europa": {
           "translations": [
             "Europe"
@@ -1294,16 +1053,6 @@
             "factory"
           ]
         },
-        "habla": {
-          "translations": [
-            "speaks"
-          ]
-        },
-        "hablar": {
-          "translations": [
-            "to talk"
-          ]
-        },
         "inglaterra": {
           "translations": [
             "England"
@@ -1317,16 +1066,6 @@
         "quién": {
           "translations": [
             "who"
-          ]
-        },
-        "trabaja": {
-          "translations": [
-            "works"
-          ]
-        },
-        "trabajar": {
-          "translations": [
-            "to work"
           ]
         },
         "trabajas": {
@@ -1352,11 +1091,6 @@
         "vives": {
           "translations": [
             "do you live"
-          ]
-        },
-        "vivir": {
-          "translations": [
-            "to live"
           ]
         },
         "amiga": {
@@ -1392,11 +1126,6 @@
         "con": {
           "translations": [
             "with"
-          ]
-        },
-        "dirección": {
-          "translations": [
-            "direction"
           ]
         },
         "joven": {
@@ -1539,11 +1268,6 @@
             "eight"
           ]
         },
-        "preguntas": {
-          "translations": [
-            "questions"
-          ]
-        },
         "seis": {
           "translations": [
             "six"
@@ -1557,11 +1281,6 @@
         "alta": {
           "translations": [
             "high"
-          ]
-        },
-        "alto": {
-          "translations": [
-            "high or tall"
           ]
         },
         "año": {
@@ -1629,11 +1348,6 @@
             "Italian"
           ]
         },
-        "italiano": {
-          "translations": [
-            "Italian"
-          ]
-        },
         "madres": {
           "translations": [
             "mothers"
@@ -1669,11 +1383,6 @@
             "nice"
           ]
         },
-        "simpático": {
-          "translations": [
-            "sympathetic"
-          ]
-        },
         "su": {
           "translations": [
             "his"
@@ -1687,11 +1396,6 @@
         "carta": {
           "translations": [
             "letter"
-          ]
-        },
-        "cartas": {
-          "translations": [
-            "cards"
           ]
         },
         "correo electrónico": {
@@ -1734,29 +1438,9 @@
             "chief"
           ]
         },
-        "las": {
-          "translations": [
-            "the"
-          ]
-        },
-        "lee": {
-          "translations": [
-            "read"
-          ]
-        },
-        "los": {
-          "translations": [
-            "the"
-          ]
-        },
         "mensaje": {
           "translations": [
             "message"
-          ]
-        },
-        "mensajes": {
-          "translations": [
-            "posts"
           ]
         },
         "negocio": {
@@ -1779,11 +1463,6 @@
             "new"
           ]
         },
-        "poco": {
-          "translations": [
-            "little bit"
-          ]
-        },
         "problemas": {
           "translations": [
             "problems"
@@ -1802,11 +1481,6 @@
         "secretario": {
           "translations": [
             "secretary"
-          ]
-        },
-        "tener": {
-          "translations": [
-            "have"
           ]
         },
         "trabajos": {
@@ -1849,16 +1523,6 @@
             "with you"
           ]
         },
-        "disfrutar": {
-          "translations": [
-            "to enjoy"
-          ]
-        },
-        "dormir": {
-          "translations": [
-            "to sleep"
-          ]
-        },
         "emocionada": {
           "translations": [
             "moved"
@@ -1889,11 +1553,6 @@
             "annoyed"
           ]
         },
-        "enojado": {
-          "translations": [
-            "angry"
-          ]
-        },
         "mamá": {
           "translations": [
             "breast"
@@ -1902,11 +1561,6 @@
         "mamás": {
           "translations": [
             "moms"
-          ]
-        },
-        "me siento": {
-          "translations": [
-            "I feel"
           ]
         },
         "nunca": {
@@ -2274,11 +1928,6 @@
             "airports"
           ]
         },
-        "al": {
-          "translations": [
-            "to the"
-          ]
-        },
         "al lado": {
           "translations": [
             "beside"
@@ -2324,11 +1973,6 @@
             "the coffee"
           ]
         },
-        "estaciones": {
-          "translations": [
-            "seasons"
-          ]
-        },
         "estación": {
           "translations": [
             "station"
@@ -2354,24 +1998,9 @@
             "Hotels"
           ]
         },
-        "ir": {
-          "translations": [
-            "to go"
-          ]
-        },
-        "izquierda": {
-          "translations": [
-            "left"
-          ]
-        },
         "lejos": {
           "translations": [
             "far"
-          ]
-        },
-        "metro": {
-          "translations": [
-            "meter"
           ]
         },
         "metros": {
@@ -2402,11 +2031,6 @@
         "supermercados": {
           "translations": [
             "supermarkets"
-          ]
-        },
-        "tomar": {
-          "translations": [
-            "drink"
           ]
         },
         "trenes": {
@@ -2447,11 +2071,6 @@
         "buenas": {
           "translations": [
             "good"
-          ]
-        },
-        "bueno": {
-          "translations": [
-            "well"
           ]
         },
         "buenos": {
@@ -2529,11 +2148,6 @@
             "a lot"
           ]
         },
-        "mucho": {
-          "translations": [
-            "a lot of"
-          ]
-        },
         "periódico": {
           "translations": [
             "Newspaper"
@@ -2582,11 +2196,6 @@
         "sándwiches": {
           "translations": [
             "sandwiches"
-          ]
-        },
-        "tarde": {
-          "translations": [
-            "afternoon"
           ]
         },
         "tardes": {
@@ -2729,26 +2338,6 @@
             "come out"
           ]
         },
-        "salimos": {
-          "translations": [
-            "we went out"
-          ]
-        },
-        "salir": {
-          "translations": [
-            "go out"
-          ]
-        },
-        "toma": {
-          "translations": [
-            "taking"
-          ]
-        },
-        "tomamos": {
-          "translations": [
-            "we take"
-          ]
-        },
         "tomar el": {
           "translations": [
             "take the"
@@ -2757,11 +2346,6 @@
         "trabajamos": {
           "translations": [
             "we work"
-          ]
-        },
-        "trabajan": {
-          "translations": [
-            "they work"
           ]
         },
         "trabajar en": {
@@ -2834,11 +2418,6 @@
             "chocolates"
           ]
         },
-        "correr": {
-          "translations": [
-            "rush"
-          ]
-        },
         "creo que": {
           "translations": [
             "I think"
@@ -2869,19 +2448,9 @@
             "favorites"
           ]
         },
-        "jugar": {
-          "translations": [
-            "play"
-          ]
-        },
         "me encanta": {
           "translations": [
             "I&#39;m lovin &#39;it"
-          ]
-        },
-        "me gusta": {
-          "translations": [
-            "I like"
           ]
         },
         "música": {
@@ -3084,21 +2653,6 @@
             "you have to"
           ]
         },
-        "todas": {
-          "translations": [
-            "all"
-          ]
-        },
-        "todo": {
-          "translations": [
-            "all"
-          ]
-        },
-        "todos": {
-          "translations": [
-            "everyone"
-          ]
-        },
         "va": {
           "translations": [
             "goes"
@@ -3107,11 +2661,6 @@
         "vamos": {
           "translations": [
             "we go"
-          ]
-        },
-        "van": {
-          "translations": [
-            "go"
           ]
         },
         "vas": {
@@ -3149,21 +2698,6 @@
             "cell phones"
           ]
         },
-        "cocina": {
-          "translations": [
-            "kitchen"
-          ]
-        },
-        "cocinas": {
-          "translations": [
-            "kitchens"
-          ]
-        },
-        "compra": {
-          "translations": [
-            "purchase"
-          ]
-        },
         "compro": {
           "translations": [
             "bought"
@@ -3192,11 +2726,6 @@
         "esos": {
           "translations": [
             "those"
-          ]
-        },
-        "estantería": {
-          "translations": [
-            "shelving"
           ]
         },
         "estanterías": {
@@ -3234,19 +2763,9 @@
             "clean"
           ]
         },
-        "limpiamos": {
-          "translations": [
-            "we clean"
-          ]
-        },
         "limpian": {
           "translations": [
             "they clean"
-          ]
-        },
-        "limpiar": {
-          "translations": [
-            "clean up"
           ]
         },
         "limpias": {
@@ -3299,11 +2818,6 @@
             "they paint"
           ]
         },
-        "pintar": {
-          "translations": [
-            "to paint"
-          ]
-        },
         "pintas": {
           "translations": [
             "pints"
@@ -3352,11 +2866,6 @@
         "sillas": {
           "translations": [
             "chairs"
-          ]
-        },
-        "sobre": {
-          "translations": [
-            "on"
           ]
         },
         "teléfonos": {
@@ -3454,11 +2963,6 @@
             "knives"
           ]
         },
-        "cuenta": {
-          "translations": [
-            "bill"
-          ]
-        },
         "frijol": {
           "translations": [
             "beans"
@@ -3482,16 +2986,6 @@
         "mesas": {
           "translations": [
             "tables"
-          ]
-        },
-        "otra": {
-          "translations": [
-            "other"
-          ]
-        },
-        "otro": {
-          "translations": [
-            "other"
           ]
         },
         "paga": {
@@ -3629,29 +3123,14 @@
             "he loves it"
           ]
         },
-        "le gusta": {
-          "translations": [
-            "likes"
-          ]
-        },
         "marido": {
           "translations": [
             "husband"
           ]
         },
-        "mayor": {
-          "translations": [
-            "higher"
-          ]
-        },
         "mayores": {
           "translations": [
             "greater"
-          ]
-        },
-        "menor": {
-          "translations": [
-            "minor"
           ]
         },
         "menores": {
@@ -3667,26 +3146,6 @@
         "nos gusta": {
           "translations": [
             "we like"
-          ]
-        },
-        "nuestra": {
-          "translations": [
-            "our"
-          ]
-        },
-        "nuestras": {
-          "translations": [
-            "our"
-          ]
-        },
-        "nuestro": {
-          "translations": [
-            "our"
-          ]
-        },
-        "nuestros": {
-          "translations": [
-            "our"
           ]
         },
         "padres": {
@@ -3724,17 +3183,7 @@
             "touch"
           ]
         },
-        "tocamos": {
-          "translations": [
-            "we touch"
-          ]
-        },
         "tocan": {
-          "translations": [
-            "touch"
-          ]
-        },
-        "tocar": {
           "translations": [
             "touch"
           ]
@@ -3779,11 +3228,6 @@
             "we seek"
           ]
         },
-        "buscar": {
-          "translations": [
-            "seek"
-          ]
-        },
         "buscas": {
           "translations": [
             "you seek"
@@ -3812,11 +3256,6 @@
         "catorce": {
           "translations": [
             "fourteen"
-          ]
-        },
-        "cierra": {
-          "translations": [
-            "close"
           ]
         },
         "cuesta": {
@@ -4354,11 +3793,6 @@
             "enjoy"
           ]
         },
-        "disfrutar": {
-          "translations": [
-            "to enjoy"
-          ]
-        },
         "disfrutas": {
           "translations": [
             "you enjoy"
@@ -4382,11 +3816,6 @@
         "montan": {
           "translations": [
             "they ride"
-          ]
-        },
-        "montar": {
-          "translations": [
-            "mount"
           ]
         },
         "montas": {
@@ -4414,19 +3843,9 @@
             "for him"
           ]
         },
-        "pasa": {
-          "translations": [
-            "happens"
-          ]
-        },
         "pasan": {
           "translations": [
             "pass"
-          ]
-        },
-        "pasar": {
-          "translations": [
-            "happen"
           ]
         },
         "pasas": {
@@ -4452,11 +3871,6 @@
         "tenis": {
           "translations": [
             "tennis"
-          ]
-        },
-        "tiempo": {
-          "translations": [
-            "weather"
           ]
         },
         "Alemania": {
@@ -4539,11 +3953,6 @@
             "different"
           ]
         },
-        "enseñar": {
-          "translations": [
-            "to teach"
-          ]
-        },
         "enseñas": {
           "translations": [
             "you teach"
@@ -4559,19 +3968,9 @@
             "call"
           ]
         },
-        "llamamos": {
-          "translations": [
-            "we call"
-          ]
-        },
         "llaman": {
           "translations": [
             "call"
-          ]
-        },
-        "llamar": {
-          "translations": [
-            "to call"
           ]
         },
         "llamas": {
@@ -4674,11 +4073,6 @@
             "we see"
           ]
         },
-        "ven": {
-          "translations": [
-            "come"
-          ]
-        },
         "veo": {
           "translations": [
             "I see"
@@ -4709,11 +4103,6 @@
             "they visit"
           ]
         },
-        "visitar": {
-          "translations": [
-            "to visit"
-          ]
-        },
         "visitas": {
           "translations": [
             "visits"
@@ -4727,11 +4116,6 @@
         "abrigos": {
           "translations": [
             "coats"
-          ]
-        },
-        "adulto": {
-          "translations": [
-            "adult"
           ]
         },
         "adultos": {
@@ -4752,11 +4136,6 @@
         "bailan": {
           "translations": [
             "they dance"
-          ]
-        },
-        "bailar": {
-          "translations": [
-            "to dance"
           ]
         },
         "bailas": {
@@ -4782,16 +4161,6 @@
         "de verdad": {
           "translations": [
             "for real"
-          ]
-        },
-        "frío": {
-          "translations": [
-            "cold"
-          ]
-        },
-        "ganas": {
-          "translations": [
-            "desire"
           ]
         },
         "grises": {
@@ -4869,11 +4238,6 @@
             "ladies"
           ]
         },
-        "sueño": {
-          "translations": [
-            "sleep"
-          ]
-        },
         "veinticinco": {
           "translations": [
             "twenty-five"
@@ -4907,11 +4271,6 @@
         "cursos": {
           "translations": [
             "courses"
-          ]
-        },
-        "me": {
-          "translations": [
-            "I"
           ]
         },
         "me ama": {
@@ -4999,11 +4358,6 @@
             "visits us"
           ]
         },
-        "te": {
-          "translations": [
-            "tea"
-          ]
-        },
         "te amo": {
           "translations": [
             "love you"
@@ -5069,26 +4423,6 @@
             "things"
           ]
         },
-        "demasiado": {
-          "translations": [
-            "too"
-          ]
-        },
-        "desayuno": {
-          "translations": [
-            "breakfast"
-          ]
-        },
-        "después": {
-          "translations": [
-            "after"
-          ]
-        },
-        "diario": {
-          "translations": [
-            "diary"
-          ]
-        },
         "diarios": {
           "translations": [
             "diaries"
@@ -5109,24 +4443,9 @@
             "easy"
           ]
         },
-        "hace": {
-          "translations": [
-            "make"
-          ]
-        },
         "hacemos": {
           "translations": [
             "we make"
-          ]
-        },
-        "hacen": {
-          "translations": [
-            "make"
-          ]
-        },
-        "hacer": {
-          "translations": [
-            "to do"
           ]
         },
         "haces": {
@@ -5147,11 +4466,6 @@
         "me pongo": {
           "translations": [
             "I wear"
-          ]
-        },
-        "ponerse": {
-          "translations": [
-            "to put on"
           ]
         },
         "sale": {
@@ -5177,11 +4491,6 @@
         "semanas": {
           "translations": [
             "weeks"
-          ]
-        },
-        "solo": {
-          "translations": [
-            "only"
           ]
         },
         "tarde": {
@@ -5439,11 +4748,6 @@
             "which"
           ]
         },
-        "dibujamos": {
-          "translations": [
-            "we draw"
-          ]
-        },
         "dibujan": {
           "translations": [
             "they draw"
@@ -5494,11 +4798,6 @@
             "Photos"
           ]
         },
-        "grupo": {
-          "translations": [
-            "cluster"
-          ]
-        },
         "importantes": {
           "translations": [
             "important"
@@ -5522,11 +4821,6 @@
         "juegas": {
           "translations": [
             "you play"
-          ]
-        },
-        "juego": {
-          "translations": [
-            "play"
           ]
         },
         "jugamos": {
@@ -5562,16 +4856,6 @@
         "nos\n                    interesa": {
           "translations": [
             "we are interested"
-          ]
-        },
-        "otras": {
-          "translations": [
-            "others"
-          ]
-        },
-        "otros": {
-          "translations": [
-            "others"
           ]
         },
         "partidos": {
@@ -5689,11 +4973,6 @@
             "they cook"
           ]
         },
-        "cocinar": {
-          "translations": [
-            "cook"
-          ]
-        },
         "cocinas": {
           "translations": [
             "kitchens"
@@ -5744,11 +5023,6 @@
             "drive"
           ]
         },
-        "manejar": {
-          "translations": [
-            "handle"
-          ]
-        },
         "manejas": {
           "translations": [
             "do you drive"
@@ -5777,11 +5051,6 @@
         "mismos": {
           "translations": [
             "themselves"
-          ]
-        },
-        "nada": {
-          "translations": [
-            "any"
           ]
         },
         "nadan": {
@@ -5814,11 +5083,6 @@
             "words"
           ]
         },
-        "respuesta": {
-          "translations": [
-            "reply"
-          ]
-        },
         "respuestas": {
           "translations": [
             "answers"
@@ -5847,11 +5111,6 @@
         "saben": {
           "translations": [
             "they know"
-          ]
-        },
-        "saber": {
-          "translations": [
-            "know"
           ]
         },
         "sabes": {
@@ -5914,16 +5173,6 @@
             "jackets"
           ]
         },
-        "como": {
-          "translations": [
-            "What"
-          ]
-        },
-        "cómodas": {
-          "translations": [
-            "comfortable"
-          ]
-        },
         "cómodo": {
           "translations": [
             "comfortable"
@@ -5974,11 +5223,6 @@
             "famous"
           ]
         },
-        "gorra": {
-          "translations": [
-            "Cap"
-          ]
-        },
         "la más": {
           "translations": [
             "the most"
@@ -5987,11 +5231,6 @@
         "mejores": {
           "translations": [
             "top"
-          ]
-        },
-        "menos": {
-          "translations": [
-            "less"
           ]
         },
         "mundo": {
@@ -6022,11 +5261,6 @@
         "populares": {
           "translations": [
             "popular"
-          ]
-        },
-        "que": {
-          "translations": [
-            "what"
           ]
         },
         "qué divertido": {
@@ -6099,27 +5333,12 @@
             "cameras"
           ]
         },
-        "estar": {
-          "translations": [
-            "to be"
-          ]
-        },
-        "llega": {
-          "translations": [
-            "arrives"
-          ]
-        },
         "llegamos": {
           "translations": [
             "we arrived"
           ]
         },
         "llegan": {
-          "translations": [
-            "arrive"
-          ]
-        },
-        "llegar": {
           "translations": [
             "arrive"
           ]
@@ -6139,11 +5358,6 @@
             "suitcases"
           ]
         },
-        "menos": {
-          "translations": [
-            "less"
-          ]
-        },
         "minuto": {
           "translations": [
             "minute"
@@ -6157,11 +5371,6 @@
         "pasaportes": {
           "translations": [
             "passports"
-          ]
-        },
-        "por": {
-          "translations": [
-            "for"
           ]
         },
         "pronto": {
@@ -6319,11 +5528,6 @@
             "sweet"
           ]
         },
-        "dulces": {
-          "translations": [
-            "sweets"
-          ]
-        },
         "encantan": {
           "translations": [
             "they love"
@@ -6374,11 +5578,6 @@
             "Italian"
           ]
         },
-        "juego": {
-          "translations": [
-            "play"
-          ]
-        },
         "juegos": {
           "translations": [
             "games"
@@ -6404,19 +5603,9 @@
             "lenses"
           ]
         },
-        "naranja": {
-          "translations": [
-            "orange"
-          ]
-        },
         "naranjas": {
           "translations": [
             "oranges"
-          ]
-        },
-        "ojo": {
-          "translations": [
-            "eye"
           ]
         },
         "ojos": {
@@ -6454,11 +5643,6 @@
             "fast"
           ]
         },
-        "rápido": {
-          "translations": [
-            "Quick"
-          ]
-        },
         "rápidos": {
           "translations": [
             "rapid"
@@ -6467,11 +5651,6 @@
         "sitio": {
           "translations": [
             "place"
-          ]
-        },
-        "sitios": {
-          "translations": [
-            "sites"
           ]
         },
         "vaqueros": {
@@ -6514,11 +5693,6 @@
             "fifty"
           ]
         },
-        "compra": {
-          "translations": [
-            "purchase"
-          ]
-        },
         "cuarenta": {
           "translations": [
             "Fourty"
@@ -6549,17 +5723,7 @@
             "kilo"
           ]
         },
-        "lavamos": {
-          "translations": [
-            "we wash"
-          ]
-        },
         "lavan": {
-          "translations": [
-            "wash"
-          ]
-        },
-        "lavar": {
           "translations": [
             "wash"
           ]
@@ -6572,31 +5736,6 @@
         "lleva": {
           "translations": [
             "carries"
-          ]
-        },
-        "llevamos": {
-          "translations": [
-            "we carry"
-          ]
-        },
-        "llevan": {
-          "translations": [
-            "They carry"
-          ]
-        },
-        "llevar": {
-          "translations": [
-            "wear"
-          ]
-        },
-        "llevas": {
-          "translations": [
-            "you carry"
-          ]
-        },
-        "llevo": {
-          "translations": [
-            "he took"
           ]
         },
         "mantequilla": {
@@ -6647,11 +5786,6 @@
         "ponen": {
           "translations": [
             "put"
-          ]
-        },
-        "poner": {
-          "translations": [
-            "place"
           ]
         },
         "pones": {
@@ -6869,11 +6003,6 @@
             "teeth"
           ]
         },
-        "lavarse": {
-          "translations": [
-            "wash up"
-          ]
-        },
         "llave": {
           "translations": [
             "key"
@@ -6917,11 +6046,6 @@
         "nos cepillamos": {
           "translations": [
             "we brush"
-          ]
-        },
-        "nos duchamos": {
-          "translations": [
-            "we showered"
           ]
         },
         "nos lavamos": {
@@ -7089,24 +6213,9 @@
             "making"
           ]
         },
-        "lección": {
-          "translations": [
-            "lesson"
-          ]
-        },
         "leyendo": {
           "translations": [
             "reading"
-          ]
-        },
-        "nota": {
-          "translations": [
-            "note"
-          ]
-        },
-        "notas": {
-          "translations": [
-            "notes"
           ]
         },
         "pizarra": {
@@ -7152,11 +6261,6 @@
         "quieren beber": {
           "translations": [
             "they want to drink"
-          ]
-        },
-        "quiero\n                    aprender": {
-          "translations": [
-            "I want to learn"
           ]
         },
         "saliendo": {
@@ -7234,11 +6338,6 @@
             "light"
           ]
         },
-        "lo": {
-          "translations": [
-            "it"
-          ]
-        },
         "lo compro": {
           "translations": [
             "I buy"
@@ -7267,11 +6366,6 @@
         "mala": {
           "translations": [
             "bad"
-          ]
-        },
-        "malo": {
-          "translations": [
-            "evil"
           ]
         },
         "malos": {
@@ -7309,11 +6403,6 @@
             "all the time"
           ]
         },
-        "todos": {
-          "translations": [
-            "everyone"
-          ]
-        },
         "tés": {
           "translations": [
             "teas"
@@ -7334,16 +6423,6 @@
             "Changing"
           ]
         },
-        "cambiar": {
-          "translations": [
-            "change"
-          ]
-        },
-        "decir": {
-          "translations": [
-            "say"
-          ]
-        },
         "empiezas": {
           "translations": [
             "you start"
@@ -7357,11 +6436,6 @@
         "fechas": {
           "translations": [
             "dates"
-          ]
-        },
-        "gustar": {
-          "translations": [
-            "like"
           ]
         },
         "gustaría": {
@@ -7389,19 +6463,9 @@
             "invite"
           ]
         },
-        "luego": {
-          "translations": [
-            "later"
-          ]
-        },
         "me quedo": {
           "translations": [
             "I stay"
-          ]
-        },
-        "nos quedamos": {
-          "translations": [
-            "we stayed"
           ]
         },
         "pensamos": {
@@ -7412,11 +6476,6 @@
         "pensando": {
           "translations": [
             "thinking"
-          ]
-        },
-        "pensar": {
-          "translations": [
-            "to think"
           ]
         },
         "piensa": {
@@ -7442,11 +6501,6 @@
         "por supuesto": {
           "translations": [
             "of course"
-          ]
-        },
-        "primero": {
-          "translations": [
-            "First"
           ]
         },
         "puedes": {
@@ -7497,11 +6551,6 @@
         "venimos": {
           "translations": [
             "we come"
-          ]
-        },
-        "venir": {
-          "translations": [
-            "to come"
           ]
         },
         "viene": {
@@ -7557,11 +6606,6 @@
         "enseña a": {
           "translations": [
             "teach to"
-          ]
-        },
-        "entrada": {
-          "translations": [
-            "entrance"
           ]
         },
         "entradas": {
@@ -7637,11 +6681,6 @@
         "quedarnos": {
           "translations": [
             "stay"
-          ]
-        },
-        "recordar": {
-          "translations": [
-            "remind"
           ]
         },
         "salir a": {
@@ -7819,11 +6858,6 @@
             "safe"
           ]
         },
-        "seguro": {
-          "translations": [
-            "sure"
-          ]
-        },
         "seguros": {
           "translations": [
             "insurance"
@@ -7849,11 +6883,6 @@
             "all"
           ]
         },
-        "todo": {
-          "translations": [
-            "all"
-          ]
-        },
         "traes": {
           "translations": [
             "you bring"
@@ -7875,11 +6904,6 @@
           ]
         },
         "dan": {
-          "translations": [
-            "give"
-          ]
-        },
-        "dar": {
           "translations": [
             "give"
           ]
@@ -7939,16 +6963,6 @@
             "I do"
           ]
         },
-        "les": {
-          "translations": [
-            "them"
-          ]
-        },
-        "mandamos": {
-          "translations": [
-            "we sent"
-          ]
-        },
         "mandar": {
           "translations": [
             "send"
@@ -7967,11 +6981,6 @@
         "mesero": {
           "translations": [
             "waiter"
-          ]
-        },
-        "mil": {
-          "translations": [
-            "one thousand"
           ]
         },
         "millones": {
@@ -8079,11 +7088,6 @@
             "searching"
           ]
         },
-        "carretera": {
-          "translations": [
-            "road"
-          ]
-        },
         "cercana": {
           "translations": [
             "close"
@@ -8097,11 +7101,6 @@
         "dentro": {
           "translations": [
             "inside"
-          ]
-        },
-        "derecho": {
-          "translations": [
-            "right"
           ]
         },
         "detrás": {
@@ -8129,34 +7128,9 @@
             "in front"
           ]
         },
-        "entre": {
-          "translations": [
-            "Come in"
-          ]
-        },
-        "espera": {
-          "translations": [
-            "wait"
-          ]
-        },
         "esperando": {
           "translations": [
             "expecting"
-          ]
-        },
-        "espero": {
-          "translations": [
-            "wait"
-          ]
-        },
-        "final": {
-          "translations": [
-            "final"
-          ]
-        },
-        "fuera": {
-          "translations": [
-            "outside"
           ]
         },
         "gira": {
@@ -8197,11 +7171,6 @@
         "perdone": {
           "translations": [
             "excuse me"
-          ]
-        },
-        "seguir": {
-          "translations": [
-            "continue"
           ]
         },
         "siga": {
@@ -8319,11 +7288,6 @@
             "past"
           ]
         },
-        "pasado": {
-          "translations": [
-            "last"
-          ]
-        },
         "pasados": {
           "translations": [
             "past"
@@ -8347,11 +7311,6 @@
         "viaje": {
           "translations": [
             "travel"
-          ]
-        },
-        "viajes": {
-          "translations": [
-            "travels"
           ]
         },
         "viajé": {
@@ -8587,11 +7546,6 @@
         "disfrutamos": {
           "translations": [
             "We enjoy"
-          ]
-        },
-        "dormimos": {
-          "translations": [
-            "we slept"
           ]
         },
         "escuchamos": {
@@ -8844,24 +7798,9 @@
             "choose"
           ]
         },
-        "gran": {
-          "translations": [
-            "big"
-          ]
-        },
         "mal": {
           "translations": [
             "wrong"
-          ]
-        },
-        "mi\n                    nuevo": {
-          "translations": [
-            "my new"
-          ]
-        },
-        "nadie": {
-          "translations": [
-            "no one"
           ]
         },
         "ninguna": {
@@ -8924,11 +7863,6 @@
             "first"
           ]
         },
-        "segundo": {
-          "translations": [
-            "second"
-          ]
-        },
         "tercer": {
           "translations": [
             "third"
@@ -8940,11 +7874,6 @@
           ]
         },
         "últimas": {
-          "translations": [
-            "latest"
-          ]
-        },
-        "último": {
           "translations": [
             "latest"
           ]
@@ -8967,11 +7896,6 @@
         "pasttense13": {
           "translations": [
             "pasttense13"
-          ]
-        },
-        "pasttense": {
-          "translations": [
-            "pasttense"
           ]
         },
         "ahí": {
@@ -9012,11 +7936,6 @@
         "dura": {
           "translations": [
             "hard"
-          ]
-        },
-        "duro": {
-          "translations": [
-            "Lasted"
           ]
         },
         "el azul": {
@@ -9122,16 +8041,6 @@
         "pagaste": {
           "translations": [
             "you paid"
-          ]
-        },
-        "querer": {
-          "translations": [
-            "want"
-          ]
-        },
-        "sí": {
-          "translations": [
-            "Yeah"
           ]
         },
         "usando": {
@@ -9249,16 +8158,6 @@
             "they were some"
           ]
         },
-        "haber": {
-          "translations": [
-            "to have"
-          ]
-        },
-        "llover": {
-          "translations": [
-            "rain"
-          ]
-        },
         "lloviendo": {
           "translations": [
             "raining"
@@ -9287,11 +8186,6 @@
         "nevando": {
           "translations": [
             "snowing"
-          ]
-        },
-        "nevar": {
-          "translations": [
-            "to snow"
           ]
         },
         "nevó": {
@@ -9399,11 +8293,6 @@
             "They found"
           ]
         },
-        "entonces": {
-          "translations": [
-            "then"
-          ]
-        },
         "espere": {
           "translations": [
             "Wait"
@@ -9427,11 +8316,6 @@
         "nacionalidad": {
           "translations": [
             "nationality"
-          ]
-        },
-        "nos vemos": {
-          "translations": [
-            "See ya"
           ]
         },
         "posible": {
@@ -9532,11 +8416,6 @@
         "comprenden": {
           "translations": [
             "understand"
-          ]
-        },
-        "comprender": {
-          "translations": [
-            "grasp"
           ]
         },
         "comprendes": {
@@ -9657,11 +8536,6 @@
         "me siento": {
           "translations": [
             "I feel"
-          ]
-        },
-        "necesitar": {
-          "translations": [
-            "need"
           ]
         },
         "nos sentamos": {
@@ -9787,26 +8661,6 @@
         "te sientas": {
           "translations": [
             "you sit"
-          ]
-        },
-        "tomaron": {
-          "translations": [
-            "they took"
-          ]
-        },
-        "tomaste": {
-          "translations": [
-            "do you drink tea"
-          ]
-        },
-        "tomé": {
-          "translations": [
-            "take"
-          ]
-        },
-        "tomó": {
-          "translations": [
-            "I take"
           ]
         },
         "vi": {
@@ -9954,11 +8808,6 @@
             "you looked"
           ]
         },
-        "morir": {
-          "translations": [
-            "To die"
-          ]
-        },
         "nosotros fuimos": {
           "translations": [
             "we went"
@@ -10037,11 +8886,6 @@
         "recuerda": {
           "translations": [
             "remember"
-          ]
-        },
-        "recuerdo": {
-          "translations": [
-            "memory"
           ]
         },
         "setecientos": {
@@ -10219,16 +9063,6 @@
             "nose"
           ]
         },
-        "nos acordamos": {
-          "translations": [
-            "we remember"
-          ]
-        },
-        "nos despertamos": {
-          "translations": [
-            "we wake up"
-          ]
-        },
         "nos levantamos": {
           "translations": [
             "we got up"
@@ -10237,11 +9071,6 @@
         "oigo": {
           "translations": [
             "i hear"
-          ]
-        },
-        "oye": {
-          "translations": [
-            "hears"
           ]
         },
         "oyen": {
@@ -10289,11 +9118,6 @@
             "remain"
           ]
         },
-        "quedar": {
-          "translations": [
-            "stay"
-          ]
-        },
         "quedas": {
           "translations": [
             "stay"
@@ -10337,11 +9161,6 @@
         "sentirnos": {
           "translations": [
             "feel us"
-          ]
-        },
-        "sentirse": {
-          "translations": [
-            "feel"
           ]
         },
         "sentirte": {
@@ -10494,11 +9313,6 @@
             "purple"
           ]
         },
-        "nos acostamos": {
-          "translations": [
-            "we go to bed"
-          ]
-        },
         "odia": {
           "translations": [
             "hates"
@@ -10527,11 +9341,6 @@
         "preferimos": {
           "translations": [
             "we prefer"
-          ]
-        },
-        "preferir": {
-          "translations": [
-            "to prefer"
           ]
         },
         "prefieren": {
@@ -10614,11 +9423,6 @@
             "meetings"
           ]
         },
-        "reunión": {
-          "translations": [
-            "meeting"
-          ]
-        },
         "tampoco": {
           "translations": [
             "neither"
@@ -10669,11 +9473,6 @@
             "you go"
           ]
         },
-        "vaya": {
-          "translations": [
-            "wow"
-          ]
-        },
         "pasttense22": {
           "translations": [
             "pasttense22"
@@ -10697,11 +9496,6 @@
         "bosque": {
           "translations": [
             "forest"
-          ]
-        },
-        "cereal": {
-          "translations": [
-            "cereal"
           ]
         },
         "cereales": {
@@ -10729,11 +9523,6 @@
             "as a child"
           ]
         },
-        "era": {
-          "translations": [
-            "it was"
-          ]
-        },
         "eras": {
           "translations": [
             "ages"
@@ -10747,11 +9536,6 @@
         "estudiabas": {
           "translations": [
             "you studied"
-          ]
-        },
-        "jugaba": {
-          "translations": [
-            "played"
           ]
         },
         "jugabas": {
@@ -10812,11 +9596,6 @@
         "tranquilos": {
           "translations": [
             "quiet"
-          ]
-        },
-        "vivía": {
-          "translations": [
-            "she lived"
           ]
         },
         "vivías": {
@@ -10999,11 +9778,6 @@
             "we ask"
           ]
         },
-        "pedir": {
-          "translations": [
-            "ask for"
-          ]
-        },
         "pide": {
           "translations": [
             "requests"
@@ -11119,11 +9893,6 @@
             "beautiful"
           ]
         },
-        "bueno": {
-          "translations": [
-            "well"
-          ]
-        },
         "buenísimas": {
           "translations": [
             "very good"
@@ -11194,11 +9963,6 @@
             "breaks"
           ]
         },
-        "divertido": {
-          "translations": [
-            "funny"
-          ]
-        },
         "divertidísima": {
           "translations": [
             "hilarious"
@@ -11232,11 +9996,6 @@
         "excursiones": {
           "translations": [
             "excursions"
-          ]
-        },
-        "excursión": {
-          "translations": [
-            "excursion"
           ]
         },
         "grande": {
@@ -11297,11 +10056,6 @@
         "invita": {
           "translations": [
             "invites"
-          ]
-        },
-        "invite": {
-          "translations": [
-            "invite"
           ]
         },
         "jazz": {
@@ -11489,11 +10243,6 @@
             "New Years Eve"
           ]
         },
-        "tarjeta": {
-          "translations": [
-            "card"
-          ]
-        },
         "tenía": {
           "translations": [
             "I had"
@@ -11584,11 +10333,6 @@
             "pubs"
           ]
         },
-        "centro": {
-          "translations": [
-            "center"
-          ]
-        },
         "centros": {
           "translations": [
             "centers"
@@ -11659,11 +10403,6 @@
             "we call"
           ]
         },
-        "llamar": {
-          "translations": [
-            "to call"
-          ]
-        },
         "llamaron": {
           "translations": [
             "they called"
@@ -11702,11 +10441,6 @@
         "mediodía": {
           "translations": [
             "midday"
-          ]
-        },
-        "mira": {
-          "translations": [
-            "sight"
           ]
         },
         "oye": {
@@ -11767,11 +10501,6 @@
         "abuelito": {
           "translations": [
             "Grandpa"
-          ]
-        },
-        "aventura": {
-          "translations": [
-            "adventure"
           ]
         },
         "aventuras": {
@@ -11939,11 +10668,6 @@
             "We received"
           ]
         },
-        "recibir": {
-          "translations": [
-            "to receive"
-          ]
-        },
         "recibió": {
           "translations": [
             "He received"
@@ -11967,11 +10691,6 @@
         "te acordaste": {
           "translations": [
             "did you remember"
-          ]
-        },
-        "traje": {
-          "translations": [
-            "costume"
           ]
         },
         "trajiste": {
@@ -11999,11 +10718,6 @@
             "had"
           ]
         },
-        "alfombras": {
-          "translations": [
-            "carpets"
-          ]
-        },
         "apaga": {
           "translations": [
             "turns off"
@@ -12027,11 +10741,6 @@
         "apagados": {
           "translations": [
             "turned off"
-          ]
-        },
-        "apagar": {
-          "translations": [
-            "to turn off"
           ]
         },
         "apagas": {
@@ -12094,19 +10803,9 @@
             "asleep"
           ]
         },
-        "dormir": {
-          "translations": [
-            "to sleep"
-          ]
-        },
         "encendemos": {
           "translations": [
             "we turn on"
-          ]
-        },
-        "encender": {
-          "translations": [
-            "light"
           ]
         },
         "encendida": {
@@ -12117,11 +10816,6 @@
         "encendidas": {
           "translations": [
             "lit"
-          ]
-        },
-        "encendido": {
-          "translations": [
-            "switched on"
           ]
         },
         "encendidos": {
@@ -12169,11 +10863,6 @@
             "lights"
           ]
         },
-        "luz": {
-          "translations": [
-            "light"
-          ]
-        },
         "lámpara": {
           "translations": [
             "lamp"
@@ -12202,11 +10891,6 @@
         "perdidas": {
           "translations": [
             "losses"
-          ]
-        },
-        "perdido": {
-          "translations": [
-            "lost"
           ]
         },
         "pintada": {
@@ -12284,11 +10968,6 @@
             "cigarettes"
           ]
         },
-        "cita": {
-          "translations": [
-            "appointment"
-          ]
-        },
         "cuello": {
           "translations": [
             "neck"
@@ -12307,11 +10986,6 @@
         "cuidan": {
           "translations": [
             "take care"
-          ]
-        },
-        "cuidar": {
-          "translations": [
-            "look after"
           ]
         },
         "cuidas": {
@@ -12549,11 +11223,6 @@
             "you understand"
           ]
         },
-        "enviar": {
-          "translations": [
-            "send"
-          ]
-        },
         "fábricas": {
           "translations": [
             "factories"
@@ -12637,11 +11306,6 @@
         "preguntó": {
           "translations": [
             "I ask"
-          ]
-        },
-        "que": {
-          "translations": [
-            "what"
           ]
         },
         "revista": {
@@ -12757,11 +11421,6 @@
         "elefantes": {
           "translations": [
             "elephants"
-          ]
-        },
-        "fuerte": {
-          "translations": [
-            "strong"
           ]
         },
         "fuertes": {
@@ -12954,11 +11613,6 @@
             "win"
           ]
         },
-        "ganar": {
-          "translations": [
-            "win"
-          ]
-        },
         "ganas": {
           "translations": [
             "desire"
@@ -13039,11 +11693,6 @@
             "we clean"
           ]
         },
-        "limpiar": {
-          "translations": [
-            "clean up"
-          ]
-        },
         "limpiaste": {
           "translations": [
             "you cleaned"
@@ -13067,11 +11716,6 @@
         "tocamos": {
           "translations": [
             "we touch"
-          ]
-        },
-        "tocar": {
-          "translations": [
-            "touch"
           ]
         },
         "tocó": {
@@ -13214,11 +11858,6 @@
             "you took care"
           ]
         },
-        "cuidar": {
-          "translations": [
-            "look after"
-          ]
-        },
         "descansaba": {
           "translations": [
             "rested"
@@ -13287,11 +11926,6 @@
         "estudiábamos": {
           "translations": [
             "we studied"
-          ]
-        },
-        "ganar": {
-          "translations": [
-            "win"
           ]
         },
         "geografía": {
@@ -13384,11 +12018,6 @@
             "playgrounds"
           ]
         },
-        "recibir": {
-          "translations": [
-            "to receive"
-          ]
-        },
         "recibía": {
           "translations": [
             "received"
@@ -13417,11 +12046,6 @@
         "tomabas": {
           "translations": [
             "you drank"
-          ]
-        },
-        "tomar": {
-          "translations": [
-            "drink"
           ]
         },
         "tomábamos": {
@@ -13559,11 +12183,6 @@
             "she spoke"
           ]
         },
-        "hablar": {
-          "translations": [
-            "to talk"
-          ]
-        },
         "hablábamos": {
           "translations": [
             "we talked"
@@ -13572,11 +12191,6 @@
         "había una vez": {
           "translations": [
             "once Upon a time"
-          ]
-        },
-        "hasta": {
-          "translations": [
-            "until"
           ]
         },
         "intenta": {
@@ -13627,11 +12241,6 @@
         "llorabas": {
           "translations": [
             "you cried"
-          ]
-        },
-        "llorar": {
-          "translations": [
-            "cry"
           ]
         },
         "mar": {
@@ -13727,11 +12336,6 @@
         "solas": {
           "translations": [
             "alone"
-          ]
-        },
-        "solo": {
-          "translations": [
-            "only"
           ]
         },
         "solos": {
@@ -13969,11 +12573,6 @@
             "reserve"
           ]
         },
-        "reservar": {
-          "translations": [
-            "Reserve"
-          ]
-        },
         "reservaron": {
           "translations": [
             "reserved"
@@ -14074,11 +12673,6 @@
             "you were"
           ]
         },
-        "estar": {
-          "translations": [
-            "to be"
-          ]
-        },
         "estábamos": {
           "translations": [
             "we were"
@@ -14125,11 +12719,6 @@
           ]
         },
         "invitada": {
-          "translations": [
-            "guest"
-          ]
-        },
-        "invitado": {
           "translations": [
             "guest"
           ]
@@ -14249,11 +12838,6 @@
             "satisfied"
           ]
         },
-        "satisfecho": {
-          "translations": [
-            "satisfied"
-          ]
-        },
         "satisfechos": {
           "translations": [
             "satisfied"
@@ -14299,19 +12883,9 @@
             "swimsuits"
           ]
         },
-        "vecina": {
-          "translations": [
-            "neighbor"
-          ]
-        },
         "vecinas": {
           "translations": [
             "neighbors"
-          ]
-        },
-        "vecinos": {
-          "translations": [
-            "neighbours"
           ]
         },
         "asaba": {
@@ -14639,11 +13213,6 @@
             "saying"
           ]
         },
-        "director": {
-          "translations": [
-            "director"
-          ]
-        },
         "directoras": {
           "translations": [
             "directors"
@@ -14719,11 +13288,6 @@
             "hearing"
           ]
         },
-        "pedir": {
-          "translations": [
-            "ask for"
-          ]
-        },
         "pidiendo": {
           "translations": [
             "asking"
@@ -14792,16 +13356,6 @@
         "trabajadora": {
           "translations": [
             "worker"
-          ]
-        },
-        "trabajadoras": {
-          "translations": [
-            "workers"
-          ]
-        },
-        "trabajadores": {
-          "translations": [
-            "workers"
           ]
         },
         "trayendo": {
@@ -14877,11 +13431,6 @@
         "creer": {
           "translations": [
             "to believe"
-          ]
-        },
-        "creo": {
-          "translations": [
-            "I believe"
           ]
         },
         "creía": {
@@ -15039,11 +13588,6 @@
             "bridges"
           ]
         },
-        "querer": {
-          "translations": [
-            "want"
-          ]
-        },
         "quería": {
           "translations": [
             "wanted"
@@ -15127,11 +13671,6 @@
         "decidí": {
           "translations": [
             "I decided"
-          ]
-        },
-        "miles": {
-          "translations": [
-            "Thousands"
           ]
         },
         "ocurrieron": {
@@ -15674,11 +14213,6 @@
             "eat them"
           ]
         },
-        "comprar": {
-          "translations": [
-            "purchase"
-          ]
-        },
         "comprarlas": {
           "translations": [
             "buy them"
@@ -15742,11 +14276,6 @@
         "limón": {
           "translations": [
             "lemon"
-          ]
-        },
-        "lista": {
-          "translations": [
-            "list"
           ]
         },
         "listas": {
@@ -15889,11 +14418,6 @@
             "companions"
           ]
         },
-        "compañero": {
-          "translations": [
-            "companion"
-          ]
-        },
         "compañeros": {
           "translations": [
             "classmates"
@@ -15907,11 +14431,6 @@
         "consejos": {
           "translations": [
             "tips"
-          ]
-        },
-        "dar": {
-          "translations": [
-            "give"
           ]
         },
         "darle": {
@@ -15944,11 +14463,6 @@
             "tell us"
           ]
         },
-        "detalle": {
-          "translations": [
-            "detail"
-          ]
-        },
         "detalles": {
           "translations": [
             "details"
@@ -15977,11 +14491,6 @@
         "explicando": {
           "translations": [
             "explaining"
-          ]
-        },
-        "explicar": {
-          "translations": [
-            "explain"
           ]
         },
         "explicaron": {
@@ -16149,11 +14658,6 @@
             "wonderful"
           ]
         },
-        "maravilloso": {
-          "translations": [
-            "marvelous"
-          ]
-        },
         "me": {
           "translations": [
             "I"
@@ -16217,11 +14721,6 @@
         "rompecabezas": {
           "translations": [
             "puzzle"
-          ]
-        },
-        "tanto": {
-          "translations": [
-            "so much"
           ]
         },
         "tantos": {
@@ -16417,11 +14916,6 @@
         "copiaste": {
           "translations": [
             "you copied"
-          ]
-        },
-        "correo": {
-          "translations": [
-            "mail"
           ]
         },
         "departamento": {
@@ -28318,12 +26812,7 @@
           "translations": [
             "nuisance"
           ]
-        }
-      }
-    },
-    "935f1c3b0237851e2f46e815acf72eb1": {
-      "skillName": "Romance",
-      "words": {
+        },
         "abrazar": {
           "translations": [
             "hug"
@@ -28373,12 +26862,7 @@
           "translations": [
             "voice"
           ]
-        }
-      }
-    },
-    "2273a96327fce69799b1e5b5b77c9a3d": {
-      "skillName": "Office 2",
-      "words": {
+        },
         "conferencia": {
           "translations": [
             "conference"
@@ -28428,12 +26912,7 @@
           "translations": [
             "check"
           ]
-        }
-      }
-    },
-    "9ecfb630bb27cfb2730c5d79ed80da81": {
-      "skillName": "Goal!",
-      "words": {
+        },
         "echar": {
           "translations": [
             "throw"
@@ -28483,12 +26962,7 @@
           "translations": [
             "throw me"
           ]
-        }
-      }
-    },
-    "5bbc9c10ecd150ad5308128b94cf89b4": {
-      "skillName": "Clothing 2",
-      "words": {
+        },
         "aro": {
           "translations": [
             "ring"
@@ -28538,12 +27012,7 @@
           "translations": [
             "shoe"
           ]
-        }
-      }
-    },
-    "2bf4ba13836751ff326a953206991381": {
-      "skillName": "Past Tense 8",
-      "words": {
+        },
         "pasttense81": {
           "translations": [
             "pasttense81"
@@ -28563,12 +27032,7 @@
           "translations": [
             "pasttense"
           ]
-        }
-      }
-    },
-    "d6336cd584fb2fb3c02f5a607676503d": {
-      "skillName": "Hygiene",
-      "words": {
+        },
         "afeitador": {
           "translations": [
             "shaver"
@@ -28614,16 +27078,11 @@
             "curly"
           ]
         },
-        "secador de\n                    pelo": {
+        "secador de pelo": {
           "translations": [
             "hair dryer"
           ]
-        }
-      }
-    },
-    "1dea277d0865d64373374c86694b9174": {
-      "skillName": "Purchases",
-      "words": {
+        },
         "colonia": {
           "translations": [
             "Suburb"
@@ -28673,12 +27132,7 @@
           "translations": [
             "some"
           ]
-        }
-      }
-    },
-    "58348714700c2680016bad5e3f949f81": {
-      "skillName": "Returns",
-      "words": {
+        },
         "apenas": {
           "translations": [
             "barely"
@@ -28728,12 +27182,7 @@
           "translations": [
             "Similar"
           ]
-        }
-      }
-    },
-    "21e88e7da0124945984f837c23c28a55": {
-      "skillName": "Be Polite!",
-      "words": {
+        },
         "cubierto": {
           "translations": [
             "covered"
@@ -28783,12 +27232,7 @@
           "translations": [
             "bring"
           ]
-        }
-      }
-    },
-    "6f7d8d7be5eb8712720caf9b78604cd5": {
-      "skillName": "Customers",
-      "words": {
+        },
         "atención": {
           "translations": [
             "attention"
@@ -28838,12 +27282,7 @@
           "translations": [
             "supervisor"
           ]
-        }
-      }
-    },
-    "81f4994afd61fbacaf49b2713414a0f7": {
-      "skillName": "Complaints",
-      "words": {
+        },
         "aceptable": {
           "translations": [
             "acceptable"
@@ -28893,12 +27332,7 @@
           "translations": [
             "defeated"
           ]
-        }
-      }
-    },
-    "70f5de79bf09a694daee7f79c88c3c2e": {
-      "skillName": "Small Talk",
-      "words": {
+        },
         "ciudad natal": {
           "translations": [
             "native city"
@@ -28948,12 +27382,7 @@
           "translations": [
             "visited"
           ]
-        }
-      }
-    },
-    "a48db89eaf150bea7253a87939161556": {
-      "skillName": "Subj 3",
-      "words": {
+        },
         "subj31": {
           "translations": [
             "subj31"
@@ -28973,12 +27402,7 @@
           "translations": [
             "subj"
           ]
-        }
-      }
-    },
-    "dac48fbc4b0216b2ffd18e5626817490": {
-      "skillName": "Ecology",
-      "words": {
+        },
         "arroyo": {
           "translations": [
             "stream"
@@ -29028,12 +27452,7 @@
           "translations": [
             "wave"
           ]
-        }
-      }
-    },
-    "e2154dd2ebbc15bf6b31e8c77727b7cb": {
-      "skillName": "Art Talk",
-      "words": {
+        },
         "anterior": {
           "translations": [
             "former"
@@ -29083,12 +27502,7 @@
           "translations": [
             "caption"
           ]
-        }
-      }
-    },
-    "577b2820c88649c3bca00cbb3b9c1fdc": {
-      "skillName": "Travelers",
-      "words": {
+        },
         "amanecer": {
           "translations": [
             "dawn"
@@ -29138,12 +27552,7 @@
           "translations": [
             "traveler"
           ]
-        }
-      }
-    },
-    "708e8e8432c0fef65a2e4bb02aa51af2": {
-      "skillName": "I agree",
-      "words": {
+        },
         "admitir": {
           "translations": [
             "to admit"
@@ -29193,12 +27602,7 @@
           "translations": [
             "I would say"
           ]
-        }
-      }
-    },
-    "5ee03f32328d33974de1f19922919127": {
-      "skillName": "Questions",
-      "words": {
+        },
         "a dónde": {
           "translations": [
             "where"
@@ -29248,12 +27652,7 @@
           "translations": [
             "secretary"
           ]
-        }
-      }
-    },
-    "5b52eb6b5ac5fdc1e041de9e23a73bb5": {
-      "skillName": "Probably",
-      "words": {
+        },
         "cariñoso": {
           "translations": [
             "affectionate"
@@ -29274,7 +27673,7 @@
             "furious"
           ]
         },
-        "hacer una\n                    broma": {
+        "hacer una broma": {
           "translations": [
             "make a joke"
           ]
@@ -29299,16 +27698,11 @@
             "drink"
           ]
         },
-        "tomar con\n                    calma": {
+        "tomar con calma": {
           "translations": [
             "take it easy"
           ]
-        }
-      }
-    },
-    "fd78e8440ae2698e3875cd981bbe8071": {
-      "skillName": "Doubts",
-      "words": {
+        },
         "algún día": {
           "translations": [
             "someday"
@@ -29358,12 +27752,7 @@
           "translations": [
             "sensible"
           ]
-        }
-      }
-    },
-    "cc55eacf62f086afbd2cb3869d43db0f": {
-      "skillName": "Hospital",
-      "words": {
+        },
         "dentro de": {
           "translations": [
             "within"
@@ -29413,12 +27802,7 @@
           "translations": [
             "urgently"
           ]
-        }
-      }
-    },
-    "33d4e401895e9e82cb4106d953cbc13d": {
-      "skillName": "Pronouns 2",
-      "words": {
+        },
         "pronouns21": {
           "translations": [
             "pronouns21"
@@ -29438,12 +27822,7 @@
           "translations": [
             "pronouns"
           ]
-        }
-      }
-    },
-    "25bd0f47a14761845b206e83a8a635d8": {
-      "skillName": "Hard Work",
-      "words": {
+        },
         "comenzado": {
           "translations": [
             "started"
@@ -29493,12 +27872,7 @@
           "translations": [
             "trimester"
           ]
-        }
-      }
-    },
-    "a3a04a4df31dbcd2fc50f266ddd04fc1": {
-      "skillName": "Urgency",
-      "words": {
+        },
         "apurarse": {
           "translations": [
             "hurry"
@@ -29548,12 +27922,7 @@
           "translations": [
             "speeds"
           ]
-        }
-      }
-    },
-    "6268933bc94f628fd9565c3cc482ce5d": {
-      "skillName": "Gratitude",
-      "words": {
+        },
         "dar las gracias": {
           "translations": [
             "give the thanks"
@@ -29603,12 +27972,7 @@
           "translations": [
             "bouquet"
           ]
-        }
-      }
-    },
-    "4123cb1dc4b0a0d17fe8200a9bc25ef7": {
-      "skillName": "Let's Go!",
-      "words": {
+        },
         "bajémonos": {
           "translations": [
             "let&#39;s get off"
@@ -29658,12 +28022,7 @@
           "translations": [
             "Let&#39;s go"
           ]
-        }
-      }
-    },
-    "211c5d3bbff5d22f94bd70ec78702e81": {
-      "skillName": "Bad Day",
-      "words": {
+        },
         "concentrarse": {
           "translations": [
             "concentrate"
@@ -29713,12 +28072,7 @@
           "translations": [
             "completely"
           ]
-        }
-      }
-    },
-    "88d506317e985f138f1664da6dd61ec4": {
-      "skillName": "Bad News",
-      "words": {
+        },
         "algunos de": {
           "translations": [
             "some of"
@@ -29768,12 +28122,7 @@
           "translations": [
             "one of"
           ]
-        }
-      }
-    },
-    "e88d8ab98ae27b5919aeeb3c27dbc897": {
-      "skillName": "Comfort",
-      "words": {
+        },
         "avena": {
           "translations": [
             "oatmeal"
@@ -29823,12 +28172,7 @@
           "translations": [
             "remember"
           ]
-        }
-      }
-    },
-    "f8bd16f0b2b563580c51be07a4b12e14": {
-      "skillName": "Subj 4",
-      "words": {
+        },
         "subj41": {
           "translations": [
             "subj41"
@@ -29848,12 +28192,7 @@
           "translations": [
             "subj"
           ]
-        }
-      }
-    },
-    "b58b0a9e6d9a2c09ace009740c1f5915": {
-      "skillName": "Empathy",
-      "words": {
+        },
         "bucear": {
           "translations": [
             "Diving"
@@ -29903,12 +28242,7 @@
           "translations": [
             "victory"
           ]
-        }
-      }
-    },
-    "861063895d8f9fd26b5e699917d9e6d3": {
-      "skillName": "Sorry",
-      "words": {
+        },
         "al revés": {
           "translations": [
             "upside down"
@@ -29949,7 +28283,7 @@
             "set the table"
           ]
         },
-        "qué mala\n                    suerte": {
+        "qué mala suerte": {
           "translations": [
             "What a bad luck"
           ]
@@ -29958,12 +28292,7 @@
           "translations": [
             "water"
           ]
-        }
-      }
-    },
-    "08ac113602a61c4504d6658858438029": {
-      "skillName": "Too Bad",
-      "words": {
+        },
         "ambiente": {
           "translations": [
             "ambient"
@@ -30013,12 +28342,7 @@
           "translations": [
             "saw"
           ]
-        }
-      }
-    },
-    "7cc61c616d018a8659e0d13656516b7f": {
-      "skillName": "Blind Date",
-      "words": {
+        },
         "al aire libre": {
           "translations": [
             "outdoor"
@@ -30068,12 +28392,7 @@
           "translations": [
             "had"
           ]
-        }
-      }
-    },
-    "58b6ad4e4721d945997f592eab0f9bd3": {
-      "skillName": "Recipes",
-      "words": {
+        },
         "calabacín": {
           "translations": [
             "zucchini"
@@ -30123,12 +28442,7 @@
           "translations": [
             "greengrocery"
           ]
-        }
-      }
-    },
-    "7cc8390440e33d21d0ffac228d49fb1b": {
-      "skillName": "Subj 5",
-      "words": {
+        },
         "subj51": {
           "translations": [
             "subj51"
@@ -30148,12 +28462,7 @@
           "translations": [
             "subj"
           ]
-        }
-      }
-    },
-    "fe0458bc9473dda962f4358c26e7a882": {
-      "skillName": "Got WiFi?",
-      "words": {
+        },
         "adjuntar": {
           "translations": [
             "to attach"
@@ -30203,12 +28512,7 @@
           "translations": [
             "sign"
           ]
-        }
-      }
-    },
-    "fa93a5a6a67d940420b66d3b048db7e4": {
-      "skillName": "Fix It!",
-      "words": {
+        },
         "antes de que": {
           "translations": [
             "before"
@@ -30258,12 +28562,7 @@
           "translations": [
             "lost"
           ]
-        }
-      }
-    },
-    "e7025263a42ee97d372465de6e9477e7": {
-      "skillName": "Decor",
-      "words": {
+        },
         "bandeja": {
           "translations": [
             "tray"
@@ -30313,12 +28612,7 @@
           "translations": [
             "remodel"
           ]
-        }
-      }
-    },
-    "6aabcafe25dad6a2b77b3b7450a4f9d4": {
-      "skillName": "Insurance",
-      "words": {
+        },
         "atención médica": {
           "translations": [
             "medical care"
@@ -30368,12 +28662,7 @@
           "translations": [
             "fee"
           ]
-        }
-      }
-    },
-    "0090a052d5684f97d6f68cf4e3964aa9": {
-      "skillName": "Talk Show",
-      "words": {
+        },
         "a continuación": {
           "translations": [
             "then"
@@ -30423,12 +28712,7 @@
           "translations": [
             "Back to the topic"
           ]
-        }
-      }
-    },
-    "c1701bc866b11f56110fe610767a638a": {
-      "skillName": "Celebrate!",
-      "words": {
+        },
         "atraer": {
           "translations": [
             "Attract"
@@ -30478,12 +28762,7 @@
           "translations": [
             "is celebrated"
           ]
-        }
-      }
-    },
-    "d78b42f3263402d4f4ab60372dfba4c9": {
-      "skillName": "World News",
-      "words": {
+        },
         "británica": {
           "translations": [
             "british"
@@ -30533,12 +28812,7 @@
           "translations": [
             "South American"
           ]
-        }
-      }
-    },
-    "c5b90de78930510a63bd283070ed11fc": {
-      "skillName": "Harvest",
-      "words": {
+        },
         "arruinar": {
           "translations": [
             "spoil"
@@ -30588,12 +28862,7 @@
           "translations": [
             "wheat"
           ]
-        }
-      }
-    },
-    "7222365e3e657c68e43b98a5c4612f08": {
-      "skillName": "Passive",
-      "words": {
+        },
         "passive1": {
           "translations": [
             "passive1"
@@ -30613,12 +28882,7 @@
           "translations": [
             "passive"
           ]
-        }
-      }
-    },
-    "3622d253b85b9a1dabf731769e375915": {
-      "skillName": "Buy Now!",
-      "words": {
+        },
         "ahorra": {
           "translations": [
             "save"
@@ -30668,12 +28932,7 @@
           "translations": [
             "to subscribe"
           ]
-        }
-      }
-    },
-    "955284705fe65cde039fa2c70ade171c": {
-      "skillName": "TV Chef",
-      "words": {
+        },
         "batiendo": {
           "translations": [
             "beating"
@@ -30723,12 +28982,7 @@
           "translations": [
             "know"
           ]
-        }
-      }
-    },
-    "a69f88dbb9437a351c7abdf64518f674": {
-      "skillName": "Concerns",
-      "words": {
+        },
         "democracias": {
           "translations": [
             "democracies"
@@ -30778,12 +29032,7 @@
           "translations": [
             "poverty"
           ]
-        }
-      }
-    },
-    "ae2f07773b886cd28859ee562d219557": {
-      "skillName": "Adventures",
-      "words": {
+        },
         "armar": {
           "translations": [
             "to assemble"
@@ -30833,12 +29082,7 @@
           "translations": [
             "I do"
           ]
-        }
-      }
-    },
-    "0dd69aade7ab48f6cace70e3b0aa9f3e": {
-      "skillName": "Jobs",
-      "words": {
+        },
         "administración": {
           "translations": [
             "administration"
@@ -30888,12 +29132,7 @@
           "translations": [
             "be supposed to"
           ]
-        }
-      }
-    },
-    "92f2302a2ef31e70354cdb5ecc6050e9": {
-      "skillName": "Neighbors",
-      "words": {
+        },
         "bigote": {
           "translations": [
             "mustache"
@@ -30943,12 +29182,7 @@
           "translations": [
             "seventh"
           ]
-        }
-      }
-    },
-    "5cc4710cdf6788e0814b39670e53e300": {
-      "skillName": "Counsel",
-      "words": {
+        },
         "adolescencia": {
           "translations": [
             "adolescence"
@@ -30998,12 +29232,7 @@
           "translations": [
             "don&#39;t you think?"
           ]
-        }
-      }
-    },
-    "6d008244598d8647a2a972b169b6a316": {
-      "skillName": "Subj 6",
-      "words": {
+        },
         "subj61": {
           "translations": [
             "subj61"
@@ -31023,12 +29252,7 @@
           "translations": [
             "subj"
           ]
-        }
-      }
-    },
-    "3a54a85f3b56ed3aefd9ca88193370c3": {
-      "skillName": "Patients",
-      "words": {
+        },
         "acostado": {
           "translations": [
             "lying down"
@@ -31078,12 +29302,7 @@
           "translations": [
             "vitamin"
           ]
-        }
-      }
-    },
-    "c225d0bb6b5d4a31dd07425e347f29fe": {
-      "skillName": "Disbelief",
-      "words": {
+        },
         "esconder": {
           "translations": [
             "hide"
@@ -31133,12 +29352,7 @@
           "translations": [
             "Steal"
           ]
-        }
-      }
-    },
-    "93adad6cbf2ae031fceb1d499e159ebd": {
-      "skillName": "Surprise",
-      "words": {
+        },
         "calzoncillos": {
           "translations": [
             "underpants"
@@ -31188,12 +29402,7 @@
           "translations": [
             "Pull the leg"
           ]
-        }
-      }
-    },
-    "61dd0c3ad9d7533708f8cb3125439e13": {
-      "skillName": "Elementary",
-      "words": {
+        },
         "cartón": {
           "translations": [
             "paperboard"
@@ -31243,12 +29452,7 @@
           "translations": [
             "rectangle"
           ]
-        }
-      }
-    },
-    "195e79d7ece503529d2d1e012efd878e": {
-      "skillName": "Speculate",
-      "words": {
+        },
         "asiático": {
           "translations": [
             "Asian"
@@ -31298,12 +29502,7 @@
           "translations": [
             "Valley"
           ]
-        }
-      }
-    },
-    "bbf27dbfeed2a347e988f0b22b16b1d4": {
-      "skillName": "Animals",
-      "words": {
+        },
         "acercarse": {
           "translations": [
             "getting closer"
@@ -31373,12 +29572,7 @@
           "translations": [
             "turtles"
           ]
-        }
-      }
-    },
-    "69aca7de6d87d11f58d399948507a32f": {
-      "skillName": "Gossip",
-      "words": {
+        },
         "cambiarse de": {
           "translations": [
             "change from"
@@ -31404,11 +29598,6 @@
             "speak ill of"
           ]
         },
-        "ir\n                    a pasear": {
-          "translations": [
-            "go for a walk"
-          ]
-        },
         "juzgar": {
           "translations": [
             "judge"
@@ -31428,12 +29617,7 @@
           "translations": [
             "live through"
           ]
-        }
-      }
-    },
-    "739f9b04fb6f44d7dd1e615d25ad24b7": {
-      "skillName": "Work Chaos",
-      "words": {
+        },
         "absurdo": {
           "translations": [
             "absurd"
@@ -31483,12 +29667,7 @@
           "translations": [
             "all day"
           ]
-        }
-      }
-    },
-    "ad40eee57ff54f28059331d3284e25a8": {
-      "skillName": "Friends",
-      "words": {
+        },
         "a principios de": {
           "translations": [
             "at the beginning of"
@@ -31509,7 +29688,7 @@
             "editor"
           ]
         },
-        "forma\n                    de ser": {
+        "forma de ser": {
           "translations": [
             "way of being"
           ]
@@ -31538,12 +29717,7 @@
           "translations": [
             "mean"
           ]
-        }
-      }
-    },
-    "b30aaae1fd78be1ab36d06429af783e3": {
-      "skillName": "Defeat",
-      "words": {
+        },
         "avergonzado": {
           "translations": [
             "ashamed"
@@ -31593,12 +29767,7 @@
           "translations": [
             "one more time"
           ]
-        }
-      }
-    },
-    "30ba9eb9937c9415ece2680c1a7d30e3": {
-      "skillName": "Apologies",
-      "words": {
+        },
         "atrasado": {
           "translations": [
             "late"
@@ -31648,12 +29817,7 @@
           "translations": [
             "reassure"
           ]
-        }
-      }
-    },
-    "2b64c640d7ab6a2dc15aca2bcc8d8185": {
-      "skillName": "University",
-      "words": {
+        },
         "a distancia": {
           "translations": [
             "from distance"
@@ -31674,7 +29838,7 @@
             "astrology"
           ]
         },
-        "comenzar\n                    a": {
+        "comenzar a": {
           "translations": [
             "begin to"
           ]
@@ -31699,16 +29863,6 @@
             "to think of"
           ]
         },
-        "veo\n                    que": {
-          "translations": [
-            "I see that"
-          ]
-        }
-      }
-    },
-    "48eb08251b5916401ec32ff5b06f4771": {
-      "skillName": "Doctors",
-      "words": {
         "analgésico": {
           "translations": [
             "analgesic"
@@ -31758,12 +29912,7 @@
           "translations": [
             "only"
           ]
-        }
-      }
-    },
-    "1eab0c43acf0fcdfe89cd2ac8147ed87": {
-      "skillName": "Big Plans",
-      "words": {
+        },
         "angustiado": {
           "translations": [
             "distressed"
@@ -31804,7 +29953,7 @@
             "have planned"
           ]
         },
-        "toda la\n                    mañana": {
+        "toda la mañana": {
           "translations": [
             "all morning"
           ]
@@ -31813,12 +29962,7 @@
           "translations": [
             "lived"
           ]
-        }
-      }
-    },
-    "4b13bab3c1f46fbe5cd6a9bcd4b46a8d": {
-      "skillName": "Kitchen",
-      "words": {
+        },
         "abrelatas": {
           "translations": [
             "can opener"
@@ -31868,12 +30012,7 @@
           "translations": [
             "sting"
           ]
-        }
-      }
-    },
-    "7a2ca6b3f8b15c228b45efeda6ce873a": {
-      "skillName": "Aargh!",
-      "words": {
+        },
         "cada": {
           "translations": [
             "each"
@@ -31923,12 +30062,7 @@
           "translations": [
             "Quarrel"
           ]
-        }
-      }
-    },
-    "a55eb4e3157f7620af9e4b08885308dd": {
-      "skillName": "Campaign",
-      "words": {
+        },
         "acuerdo": {
           "translations": [
             "agreement"
@@ -31969,21 +30103,11 @@
             "Leader"
           ]
         },
-        "no tener\n                    por qué": {
-          "translations": [
-            "not have why"
-          ]
-        },
         "voto": {
           "translations": [
             "vote"
           ]
-        }
-      }
-    },
-    "1cbfe9aa6d7887b6cc7a897c0ce405bb": {
-      "skillName": "Traveling",
-      "words": {
+        },
         "albergue": {
           "translations": [
             "hostel"
@@ -32029,16 +30153,6 @@
             "luxurious"
           ]
         },
-        "no está nada mal": {
-          "translations": [
-            "it&#39;s not bad at all"
-          ]
-        }
-      }
-    },
-    "b9e1dcd57138efdc606b747fdf989c39": {
-      "skillName": "Car Parts",
-      "words": {
         "animarse": {
           "translations": [
             "Buck up"
@@ -32088,12 +30202,7 @@
           "translations": [
             "workshop"
           ]
-        }
-      }
-    },
-    "b06b49ba46d0ea190c90ce71ab4501d4": {
-      "skillName": "In-laws",
-      "words": {
+        },
         "afortunado": {
           "translations": [
             "lucky"
@@ -32143,12 +30252,7 @@
           "translations": [
             "try"
           ]
-        }
-      }
-    },
-    "1180368738a9a8f4ecee0c764c633db7": {
-      "skillName": "Back Then",
-      "words": {
+        },
         "castigar": {
           "translations": [
             "punish"
@@ -32198,12 +30302,7 @@
           "translations": [
             "epoch"
           ]
-        }
-      }
-    },
-    "71adbf06962e895ba7c08b3c821620fc": {
-      "skillName": "New Home",
-      "words": {
+        },
         "adelanto": {
           "translations": [
             "advancement"
@@ -32222,11 +30321,6 @@
         "dúplex": {
           "translations": [
             "duplex"
-          ]
-        },
-        "en\n                    alquiler": {
-          "translations": [
-            "for rent"
           ]
         },
         "hipoteca": {
@@ -32253,12 +30347,7 @@
           "translations": [
             "went"
           ]
-        }
-      }
-    },
-    "88be846ae8bb77e90f9006d94845829c": {
-      "skillName": "Event Plan",
-      "words": {
+        },
         "casamiento": {
           "translations": [
             "marriage"
@@ -32308,12 +30397,7 @@
           "translations": [
             "how good"
           ]
-        }
-      }
-    },
-    "b1fb6f958a1106f0231e9f0a94bff0df": {
-      "skillName": "Rushing",
-      "words": {
+        },
         "bautismo": {
           "translations": [
             "baptism"
@@ -32363,12 +30447,7 @@
           "translations": [
             "son in law"
           ]
-        }
-      }
-    },
-    "c15cc980bdd9451f598b4d0f5ad970c4": {
-      "skillName": "Goodbye!",
-      "words": {
+        },
         "atento": {
           "translations": [
             "attentive"
@@ -32418,12 +30497,7 @@
           "translations": [
             "triplet"
           ]
-        }
-      }
-    },
-    "d4a163b7268199be011b7904b7417703": {
-      "skillName": "Careers",
-      "words": {
+        },
         "asesoramiento": {
           "translations": [
             "advice"
@@ -32473,12 +30547,7 @@
           "translations": [
             "thesis"
           ]
-        }
-      }
-    },
-    "8f529c35a45aec10c667a832a1222874": {
-      "skillName": "Job Prep",
-      "words": {
+        },
         "adaptarse": {
           "translations": [
             "adapt"
@@ -32528,12 +30597,7 @@
           "translations": [
             "require"
           ]
-        }
-      }
-    },
-    "2bd42a76f53a89c6aade7694924ccd02": {
-      "skillName": "Renovating",
-      "words": {
+        },
         "bronce": {
           "translations": [
             "bronze"
@@ -32583,12 +30647,7 @@
           "translations": [
             "I fixed"
           ]
-        }
-      }
-    },
-    "3e459e8501cee10d4c74a0635a7b5bfc": {
-      "skillName": "Our Planet",
-      "words": {
+        },
         "calentamiento": {
           "translations": [
             "heating"
@@ -32614,7 +30673,7 @@
             "higher"
           ]
         },
-        "por\n                    otro lado": {
+        "por otro lado": {
           "translations": [
             "Secondly"
           ]
@@ -32638,12 +30697,7 @@
           "translations": [
             "urban"
           ]
-        }
-      }
-    },
-    "ffbe050200cf9f3df7f037bebd96ec7e": {
-      "skillName": "Standards",
-      "words": {
+        },
         "confesar": {
           "translations": [
             "to confess"
@@ -32693,12 +30747,7 @@
           "translations": [
             "bring luck"
           ]
-        }
-      }
-    },
-    "11d62d3b70b69b8c5bf59c444d707090": {
-      "skillName": "First Trip",
-      "words": {
+        },
         "aún no": {
           "translations": [
             "not yet"
@@ -32748,12 +30797,7 @@
           "translations": [
             "have confidence"
           ]
-        }
-      }
-    },
-    "8c47acb3d9994d806fd03505d7a37c28": {
-      "skillName": "Gotta go!",
-      "words": {
+        },
         "aquí tiene": {
           "translations": [
             "here you go"
@@ -32803,12 +30847,7 @@
           "translations": [
             "take by surprise"
           ]
-        }
-      }
-    },
-    "ed0dd055842648c0fa2ecf525e6e3901": {
-      "skillName": "Flirting",
-      "words": {
+        },
         "cielo": {
           "translations": [
             "sky"
@@ -32859,5 +30898,4 @@
             "a"
           ]
         }
-      }
     }
