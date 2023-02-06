@@ -9,6 +9,8 @@ function Blanks(props) {
   const [blanksArray, setBlanksArray] = useState([]);
   // split all characters from foreign word into an array
   const charArray = props.foreignWord.split('');
+
+  // code to reveal letters as time elapses
   // create array that will hold characters to hide
   const hiddenChars = [];
   // push all indices that aren't spaces into the hiddenChars array
@@ -24,7 +26,7 @@ function Blanks(props) {
     (letterCount.length - hiddenChars.length) / (letterCount.length / 2);
   // if more time has elapsed than characters have been revealed, remove an element from the hidden array
   if (pctTimeElapsed >= pctCharsRevealed && pctCharsRevealed < 1) {
-    const temp = Math.floor(Math.random * hiddenChars.length);
+    const temp = Math.floor(Math.random() * hiddenChars.length);
     hiddenChars.splice(temp, 1);
   }
 
@@ -36,7 +38,8 @@ function Blanks(props) {
         result.push(<div key={i} className='blankspace'></div>);
       }
       // if letter is in hiddenChars array, return blank div without letter
-      else if (true) result.push(<div key={i} className='space'></div>);
+      else if (hiddenChars.includes(i))
+        result.push(<div key={i} className='space'></div>);
       // otherwise return blank div with letter
       else
         result.push(
@@ -47,7 +50,10 @@ function Blanks(props) {
     }
     return result;
   }
+
   setBlanksArray(blanksArrayMaker());
+
+  return <div className='blankscontainer'>{blanksArray}</div>;
 }
 
 export default Blanks;
