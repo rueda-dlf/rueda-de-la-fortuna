@@ -1,0 +1,17 @@
+{
+    "agua": {
+      "translations": [
+        "Water"
+      ]
+    },
+    "bebe": {
+      "translations": [
+        "baby"
+      ]
+    },
+    "bebes": {
+      "translations": [
+        "babies"
+      ]
+    }
+  }
