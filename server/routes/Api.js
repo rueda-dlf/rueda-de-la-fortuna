@@ -3,9 +3,11 @@ const spanishController = require('../controllers/spanishController');
 const router = express.Router();
 
 
-router.get('/', spanishController.getSpanishWords, (req, res) =>
-  res.status(200).json(res.locals.finalDatabase)
+router.get('/db', spanishController.getSpanishWords, (req, res) =>
+
+  res.status(200).json(res.locals.transformedData)
 );
 
+console.log('this is the typeof', typeof spanishController)
 
 module.export = router;
