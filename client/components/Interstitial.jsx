@@ -1,4 +1,5 @@
-import React, { useState, useEffect } from 'react';
+/* eslint-disable react/prop-types */
+import React, { useEffect } from 'react';
 import GameOver from './GameOver.jsx';
 
 function Interstitial(props) {
