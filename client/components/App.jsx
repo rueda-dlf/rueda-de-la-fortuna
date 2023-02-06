@@ -15,8 +15,8 @@ function App() {
     fetch(`/words/${i}`)
       .then((res) => res.json())
       .then((words) => {
-        setEnglishWord(words[i]['translations'][0]);
-        setForeignWord(words[i]);
+        setEnglishWord(words.englishWord);
+        setForeignWord(words.spanishWord);
       })
       .catch((err) =>
         console.log(`Error in retrieving words from database. ${err}`)

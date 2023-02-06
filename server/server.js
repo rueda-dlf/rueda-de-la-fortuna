@@ -23,13 +23,11 @@ app.use(express.static(path.resolve(__dirname, '../client')));
 /**
  * define route handlers
  */
-app.use('/Api', apiRouter);
+app.use('/api', apiRouter);
 
 /**
  * CRUD 
  */
-
-
 
 app.get('/', (req, res) => {
   return res.status(200).sendFile(path.join(__dirname, '../index.html'));
