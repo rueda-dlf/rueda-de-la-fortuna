@@ -34,7 +34,7 @@ app.get('/', (req, res) => {
 });
 
 app.get('/', spanishController.getSpanishWords, (req, res) =>
-res.status(200).json(res.locals.words)
+res.status(200).json(res.locals.finalDatabase)
 );
 // catch-all route handler for any requests to an unknown route
 app.use((req, res) => res.status(404).send('This is not the page you\'re looking for...'));
