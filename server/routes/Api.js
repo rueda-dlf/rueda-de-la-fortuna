@@ -4,7 +4,7 @@ const router = express.Router();
 
 
 router.get('/', spanishController.getSpanishWords, (req, res) =>
-  res.status(200).json(res.locals.words)
+  res.status(200).json(res.locals.finalDatabase)
 );
 
 
