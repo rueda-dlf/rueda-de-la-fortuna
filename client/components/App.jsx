@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import Board from './Board.jsx';
 import Interstitial from './Interstitial.jsx';
+import GameOver from './GameOver.jsx';
 
 function App() {
   const [score, setScore] = useState({ totalScore: 0, latestScore: 0 });
@@ -10,6 +11,7 @@ function App() {
   const [previousEnglishWord, setPreviousEnglishWord] = useState('');
   const [previousForeignWord, setPreviousForeignWord] = useState('');
   const [showInterstitial, setInterstitial] = useState(false);
+  const [showGameOver, setGameOver] = useState(false);
   // make a request to backend for a random word on initial load. // useEffect(() => getWords());
   useEffect(() => {
     const i = Math.floor(Math.random() * 6025);
@@ -27,8 +29,18 @@ function App() {
       );
   }, [roundNumber]);
 
-  // render Interstitial and Board on screen
-  if (showInterstitial === true) {
+  // render Interstitial and Board and GameOver on screen
+  if(showGameOver === true){
+    return (
+      <GameOver
+        totalScore={score.totalScore}
+        setScore={setScore}
+        setRoundNumber={setRoundNumber}
+        setInterstitial={setInterstitial}
+        setGameOver={setGameOver}
+      />
+    );
+  }else if(showInterstitial === true) {
     return (
       <Interstitial
         key={1}
@@ -42,6 +54,7 @@ function App() {
         roundNumber={roundNumber}
         setRoundNumber={setRoundNumber}
         setInterstitial={setInterstitial}
+        setGameOver={setGameOver}
       />
     );
   } else {

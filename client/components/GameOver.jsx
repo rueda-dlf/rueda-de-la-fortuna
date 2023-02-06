@@ -2,11 +2,13 @@ import React from 'react';
 
 function GameOver(props) {
   const currTotalScore = props.totalScore;
-  props.setScore({ totalScore: 0, latestScore: 0 });
-  props.setRoundNumber(1);
+  
   
   const restartGame = () => {
-    props.setInterstitial(false)
+    props.setScore({ totalScore: 0, latestScore: 0 });
+    props.setRoundNumber(1);
+    props.setInterstitial(false);
+    props.setGameOver(false);
   }
 
   return(
