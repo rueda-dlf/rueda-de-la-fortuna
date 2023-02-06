@@ -14,7 +14,7 @@ function App() {
   const [showGameOver, setGameOver] = useState(false);
   // make a request to backend for a random word on initial load. // useEffect(() => getWords());
   useEffect(() => {
-    const i = Math.floor(Math.random() * 6025);
+    const i = Math.floor(Math.random() * 100); // total: 5863
 
     fetch(`/api/db/${i}`)
       .then((res) => res.json())

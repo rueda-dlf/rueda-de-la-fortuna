@@ -9,7 +9,6 @@ function Start() {
       <div className='flex'>
         <div className='main-container' id='startscreen'>
           <img src={logoGif}></img>
-          {/* <h1>Rueda de la Fortuna</h1> */}
          
           <button
             id='startbutton'

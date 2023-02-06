@@ -7,6 +7,7 @@ module.exports = {
     path: path.join(__dirname, 'build'),
     publicPath: '/',
     filename: 'bundle.js',
+    assetModuleFilename: '[name][ext]',
   },
   mode: process.env.NODE_ENV,
   devServer: {

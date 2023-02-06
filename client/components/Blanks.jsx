@@ -49,11 +49,11 @@ function Blanks(props) {
         }
         // if letter is in hiddenChars array, return blank div without letter
         else if (hiddenChars.includes(i))
-          result.push(<div key={i} className='space'></div>);
+          result.push(<div key={i} className='blankcharacter'></div>);
         // otherwise return blank div with letter
         else
           result.push(
-            <div key={i} className='space'>
+            <div key={i} className='blankcharacter'>
               {charArray[i]}
             </div>
           );
