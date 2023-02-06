@@ -21,7 +21,7 @@ function Interstitial(props) {
   });
 
   return (
-    <div id='interstitial'>
+    <div className='main-container' id='interstitial'>
       <div id='latestScore'>You got a score of {currLatestScore} points!</div>
       <div id='foreignWord'>{currForeignWord} </div>
       <div id='englishword'>{currEnglishWord}</div>
