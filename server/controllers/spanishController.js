@@ -16,9 +16,8 @@ async function fetchAndTransformData(index) {
             return {spanishWord, englishWord: englishWord.translations[0]};
          });
       };
-      //reassing the new and final database 
-      
       finalDatabase = transformData(db);
+      
       //console.log(finalDatabase)
       return finalDatabase[index];
      //catch any errors
@@ -26,8 +25,6 @@ async function fetchAndTransformData(index) {
       console.log('Error Parsing JSON string!', err);
    }
 }
-
-
 
 //testing to see if the function is working 
 fetchAndTransformData();
