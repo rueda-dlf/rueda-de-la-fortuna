@@ -1,15 +1,22 @@
 import React, {useState, useEffect} from 'react';
+import GameOver from './GameOver.jsx';
 
 function Interstitial(props) {
     const currEnglishWord = props.englishWord;
     const currForeignWord = props.foreignWord;
     const newRoundNumber = props.roundNumber + 1;
+
     props.setRoundNumber(newRoundNumber);
     useEffect(() => {
-        //maybe change setting timeout in state to diff name?
         setTimeout(() => {
+            if (props.roundNumber === 11) {
+                return (
+                    <GameOver 
+                        totalScore={props.score.totalScore}
+                    />
+                )
+            }
             props.resetTimeout(false);
-            //does it have to be props.score.totalScore?
             props.setScore({totalScore: props.score.totalScore, latestScore: 0})
         }, 5000);
         });
