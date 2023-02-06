@@ -36,6 +36,10 @@ function Board(props) {
       updateTime((timeRemaining) => timeRemaining - 0.01);
     }, 10);
   }, []);
+<<<<<<< HEAD
+=======
+  //console.log('foreignWord', props.foreignWord);
+>>>>>>> dev
   return (
     <div id='gameboard'>
       <div id='scorebox'>
