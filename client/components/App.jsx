@@ -4,10 +4,10 @@ import Interstitial from './Interstitial.jsx';
 
 function App() {
   const [score, setScore] = useState({ totalScore: 0, latestScore: 0 });
-  const [roundNumber, setRoundNumber] = useState(0);
+  const [roundNumber, setRoundNumber] = useState(1);
   const [englishWord, setEnglishWord] = useState('');
   const [foreignWord, setForeignWord] = useState('');
-  const [isTimeout, resetTimeout] = useState(false);
+  const [showInterstitial, setInterstitial] = useState(false);
   // make a request to backend for a random word on initial load. // useEffect(() => getWords());
   useEffect(() => {
     const i = Math.floor(Math.random() * 100);
@@ -24,7 +24,7 @@ function App() {
   }, [roundNumber]);
   
   // render Interstitial and Board on screen
-  if (isTimeout || score.latestScore !== 0) {
+  if (showInterstitial === true) {
     return (
       <Interstitial
         key={1}
@@ -34,7 +34,7 @@ function App() {
         foreignWord={foreignWord}
         roundNumber={roundNumber}
         setRoundNumber={setRoundNumber}
-        resetTimeout={resetTimeout}
+        setInterstitial={setInterstitial}
       />
     );
   } else {
@@ -44,11 +44,9 @@ function App() {
         score={score}
         setScore={setScore}
         roundNumber={roundNumber}
-        setRoundNumber={setRoundNumber}
         englishWord={englishWord}
         foreignWord={foreignWord}
-        isTimeout={isTimeout}
-        resetTimeout={resetTimeout}
+        setInterstitial={setInterstitial}
       />
     );
   }
