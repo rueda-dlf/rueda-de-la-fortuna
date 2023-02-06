@@ -6,6 +6,7 @@ const express = require('express');
 const app = express();
 
 const apiRouter = require('./routes/api');
+const spanishController = require('./controllers/SpanishController');
 
 const PORT = 3000;
 
@@ -32,6 +33,9 @@ app.get('/', (req, res) => {
   return res.status(200).sendFile(path.join(__dirname, '../index.html'));
 });
 
+app.get('/', spanishController.getSpanishWords, (req, res) =>
+res.status(200).json(res.locals.words)
+);
 // catch-all route handler for any requests to an unknown route
 app.use((req, res) => res.status(404).send('This is not the page you\'re looking for...'));
 
