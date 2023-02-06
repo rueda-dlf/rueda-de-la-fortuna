@@ -34,6 +34,16 @@
             "eat"
           ]
         },
+        "comes": {
+          "translations": [
+            "you eat"
+          ]
+        },
+        "como": {
+          "translations": [
+            "What"
+          ]
+        },
         "el": {
           "translations": [
             "the"
@@ -186,12 +196,17 @@
         },
         "lo siento": {
           "translations": [
-            "I am sorry"
+            "I&#39;m sorry"
           ]
         },
         "mucho gusto": {
           "translations": [
             "pleased to meet you"
+          ]
+        },
+        "no": {
+          "translations": [
+            "not"
           ]
         },
         "perdón": {
@@ -279,9 +294,24 @@
             "bag"
           ]
         },
+        "mi": {
+          "translations": [
+            "me"
+          ]
+        },
         "museo": {
           "translations": [
             "museum"
+          ]
+        },
+        "necesito": {
+          "translations": [
+            "needed"
+          ]
+        },
+        "pasaporte": {
+          "translations": [
+            "passport"
           ]
         },
         "por favor": {
@@ -297,6 +327,21 @@
         "supermercado": {
           "translations": [
             "Supermarket"
+          ]
+        },
+        "taxi": {
+          "translations": [
+            "cab"
+          ]
+        },
+        "teléfono": {
+          "translations": [
+            "telephone"
+          ]
+        },
+        "tengo": {
+          "translations": [
+            "I&#39;ve got"
           ]
         },
         "tren": {
@@ -574,6 +619,16 @@
             "have"
           ]
         },
+        "tienes": {
+          "translations": [
+            "have"
+          ]
+        },
+        "vivo": {
+          "translations": [
+            "alive"
+          ]
+        },
         "abrigo": {
           "translations": [
             "coat"
@@ -669,6 +724,11 @@
             "Brown"
           ]
         },
+        "quiero": {
+          "translations": [
+            "I love"
+          ]
+        },
         "regalo": {
           "translations": [
             "present"
@@ -709,6 +769,11 @@
             "dress"
           ]
         },
+        "bolígrafo": {
+          "translations": [
+            "ballpoint"
+          ]
+        },
         "clase": {
           "translations": [
             "class"
@@ -747,6 +812,11 @@
         "escuela": {
           "translations": [
             "school"
+          ]
+        },
+        "estudiante": {
+          "translations": [
+            "student"
           ]
         },
         "estudiar": {
@@ -839,6 +909,11 @@
             "college"
           ]
         },
+        "China": {
+          "translations": [
+            "China"
+          ]
+        },
         "España": {
           "translations": [
             "Spain"
@@ -874,6 +949,21 @@
             "Cuban"
           ]
         },
+        "de": {
+          "translations": [
+            "from"
+          ]
+        },
+        "dónde": {
+          "translations": [
+            "where"
+          ]
+        },
+        "en": {
+          "translations": [
+            "in"
+          ]
+        },
         "españa": {
           "translations": [
             "Spain"
@@ -887,6 +977,11 @@
         "estudiante": {
           "translations": [
             "student"
+          ]
+        },
+        "interesante": {
+          "translations": [
+            "interesting"
           ]
         },
         "me llamo": {
@@ -959,6 +1054,11 @@
             "I am"
           ]
         },
+        "está": {
+          "translations": [
+            "is"
+          ]
+        },
         "estás": {
           "translations": [
             "these"
@@ -982,6 +1082,11 @@
         "mal": {
           "translations": [
             "wrong"
+          ]
+        },
+        "muy": {
+          "translations": [
+            "very"
           ]
         },
         "ocupada": {
@@ -1023,7 +1128,12 @@
           "translations": [
             "you"
           ]
-        },
+        }
+      }
+    },
+    "f66410cecd1e3db3c9ec288c4866ad55": {
+      "skillName": "Travel 2",
+      "words": {
         "ayuda": {
           "translations": [
             "help"
@@ -1034,9 +1144,44 @@
             "banana"
           ]
         },
+        "boleto": {
+          "translations": [
+            "ticket"
+          ]
+        },
         "bolígrafo": {
           "translations": [
             "ballpoint"
+          ]
+        },
+        "café": {
+          "translations": [
+            "coffee"
+          ]
+        },
+        "carro": {
+          "translations": [
+            "car"
+          ]
+        },
+        "cartera": {
+          "translations": [
+            "briefcase"
+          ]
+        },
+        "computadora": {
+          "translations": [
+            "computer"
+          ]
+        },
+        "dinero": {
+          "translations": [
+            "money"
+          ]
+        },
+        "maleta": {
+          "translations": [
+            "bag"
           ]
         },
         "más": {
@@ -1074,6 +1219,11 @@
             "you want"
           ]
         },
+        "quiero": {
+          "translations": [
+            "I love"
+          ]
+        },
         "taxi": {
           "translations": [
             "cab"
@@ -1087,6 +1237,11 @@
         "tengo": {
           "translations": [
             "I&#39;ve got"
+          ]
+        },
+        "tiene": {
+          "translations": [
+            "have"
           ]
         },
         "tienes": {
@@ -1118,7 +1273,12 @@
           "translations": [
             "use"
           ]
-        },
+        }
+      }
+    },
+    "802ec47737567d0953ab941403815131": {
+      "skillName": "Schedule",
+      "words": {
         "baile": {
           "translations": [
             "dance"
@@ -1258,10 +1418,25 @@
           "translations": [
             "friday"
           ]
-        },
+        }
+      }
+    },
+    "e653f33d5e781c125d5bf28424e07ee2": {
+      "skillName": "People 2",
+      "words": {
         "beber": {
           "translations": [
             "to drink"
+          ]
+        },
+        "carne": {
+          "translations": [
+            "meat"
+          ]
+        },
+        "casa": {
+          "translations": [
+            "House"
           ]
         },
         "comer": {
@@ -1269,7 +1444,27 @@
             "eat"
           ]
         },
+        "ensalada": {
+          "translations": [
+            "salad"
+          ]
+        },
         "estudia": {
+          "translations": [
+            "study"
+          ]
+        },
+        "estudiar": {
+          "translations": [
+            "to study"
+          ]
+        },
+        "estudias": {
+          "translations": [
+            "do you study"
+          ]
+        },
+        "estudio": {
           "translations": [
             "study"
           ]
@@ -1309,6 +1504,11 @@
             "England"
           ]
         },
+        "jugo": {
+          "translations": [
+            "juice"
+          ]
+        },
         "oficina": {
           "translations": [
             "office"
@@ -1317,6 +1517,11 @@
         "quién": {
           "translations": [
             "who"
+          ]
+        },
+        "sándwich": {
+          "translations": [
+            "sandwich"
           ]
         },
         "trabaja": {
@@ -1358,7 +1563,12 @@
           "translations": [
             "to live"
           ]
-        },
+        }
+      }
+    },
+    "c8a403cbe11099fbff57def4ce14a64a": {
+      "skillName": "People 3",
+      "words": {
         "amiga": {
           "translations": [
             "friend"
@@ -1399,12 +1609,52 @@
             "direction"
           ]
         },
+        "escuela": {
+          "translations": [
+            "school"
+          ]
+        },
+        "familia": {
+          "translations": [
+            "family"
+          ]
+        },
+        "gato": {
+          "translations": [
+            "cat"
+          ]
+        },
+        "grande": {
+          "translations": [
+            "great"
+          ]
+        },
+        "hermana": {
+          "translations": [
+            "sister"
+          ]
+        },
+        "hermano": {
+          "translations": [
+            "brother"
+          ]
+        },
+        "importante": {
+          "translations": [
+            "important"
+          ]
+        },
         "joven": {
           "translations": [
             "young"
           ]
         },
         "maestra": {
+          "translations": [
+            "teacher"
+          ]
+        },
+        "maestro": {
           "translations": [
             "teacher"
           ]
@@ -1434,6 +1684,11 @@
             "number"
           ]
         },
+        "perro": {
+          "translations": [
+            "dog"
+          ]
+        },
         "portugués": {
           "translations": [
             "Portuguese"
@@ -1444,11 +1699,46 @@
             "town"
           ]
         },
+        "restaurante": {
+          "translations": [
+            "restaurant"
+          ]
+        },
         "ser": {
           "translations": [
             "to be"
           ]
+        }
+      }
+    },
+    "4a5d92cbe006d7e6f7df27c56f6f2056": {
+      "skillName": "Agreement",
+      "words": {
+        "agreement1": {
+          "translations": [
+            "agreement1"
+          ]
         },
+        "agreement2": {
+          "translations": [
+            "agreement2"
+          ]
+        },
+        "agreement3": {
+          "translations": [
+            "agreement3"
+          ]
+        },
+        "agreement": {
+          "translations": [
+            "agreement"
+          ]
+        }
+      }
+    },
+    "420068f0e7b763bdba6873e65409be51": {
+      "skillName": "School 2",
+      "words": {
         "aprende": {
           "translations": [
             "learn"
@@ -1504,6 +1794,11 @@
             "lessons"
           ]
         },
+        "comprar": {
+          "translations": [
+            "purchase"
+          ]
+        },
         "computadoras": {
           "translations": [
             "computers"
@@ -1524,9 +1819,19 @@
             "is"
           ]
         },
+        "este": {
+          "translations": [
+            "East"
+          ]
+        },
         "estudiantes": {
           "translations": [
             "students"
+          ]
+        },
+        "libro": {
+          "translations": [
+            "book"
           ]
         },
         "libros": {
@@ -1537,6 +1842,11 @@
         "ocho": {
           "translations": [
             "eight"
+          ]
+        },
+        "pregunta": {
+          "translations": [
+            "Question"
           ]
         },
         "preguntas": {
@@ -1552,6 +1862,36 @@
         "siete": {
           "translations": [
             "seven"
+          ]
+        },
+        "tres": {
+          "translations": [
+            "three"
+          ]
+        },
+        "universidad": {
+          "translations": [
+            "college"
+          ]
+        },
+        "uno": {
+          "translations": [
+            "one"
+          ]
+        }
+      }
+    },
+    "f26af888295c4194da7ef4c9158877c2": {
+      "skillName": "Family 2",
+      "words": {
+        "abuela": {
+          "translations": [
+            "Grandma"
+          ]
+        },
+        "abuelo": {
+          "translations": [
+            "grandfather"
           ]
         },
         "alta": {
@@ -1589,6 +1929,11 @@
             "pretty"
           ]
         },
+        "bonito": {
+          "translations": [
+            "pretty"
+          ]
+        },
         "diez": {
           "translations": [
             "ten"
@@ -1599,9 +1944,19 @@
             "Spanish"
           ]
         },
+        "esposa": {
+          "translations": [
+            "wife"
+          ]
+        },
         "esposas": {
           "translations": [
             "wives"
+          ]
+        },
+        "esposo": {
+          "translations": [
+            "husband"
           ]
         },
         "esposos": {
@@ -1609,9 +1964,19 @@
             "husbands"
           ]
         },
+        "hija": {
+          "translations": [
+            "daughter"
+          ]
+        },
         "hijas": {
           "translations": [
             "daughters"
+          ]
+        },
+        "hijo": {
+          "translations": [
+            "child"
           ]
         },
         "hijos": {
@@ -1624,6 +1989,11 @@
             "english"
           ]
         },
+        "inteligente": {
+          "translations": [
+            "intelligent"
+          ]
+        },
         "italiana": {
           "translations": [
             "Italian"
@@ -1632,6 +2002,11 @@
         "italiano": {
           "translations": [
             "Italian"
+          ]
+        },
+        "madre": {
+          "translations": [
+            "mother"
           ]
         },
         "madres": {
@@ -1652,6 +2027,11 @@
         "nueve": {
           "translations": [
             "nine"
+          ]
+        },
+        "padre": {
+          "translations": [
+            "dad"
           ]
         },
         "pequeña": {
@@ -1678,10 +2058,20 @@
           "translations": [
             "his"
           ]
-        },
+        }
+      }
+    },
+    "3fab40e2859c5ac84779f4217ba32ca7": {
+      "skillName": "Work",
+      "words": {
         "ahora": {
           "translations": [
             "now"
+          ]
+        },
+        "aquí": {
+          "translations": [
+            "here"
           ]
         },
         "carta": {
@@ -1707,6 +2097,21 @@
         "escribe": {
           "translations": [
             "writes"
+          ]
+        },
+        "escribes": {
+          "translations": [
+            "you write"
+          ]
+        },
+        "escribir": {
+          "translations": [
+            "to write"
+          ]
+        },
+        "escribo": {
+          "translations": [
+            "I write"
           ]
         },
         "escritorio": {
@@ -1744,6 +2149,21 @@
             "read"
           ]
         },
+        "leer": {
+          "translations": [
+            "read"
+          ]
+        },
+        "lees": {
+          "translations": [
+            "you read"
+          ]
+        },
+        "leo": {
+          "translations": [
+            "I read"
+          ]
+        },
         "los": {
           "translations": [
             "the"
@@ -1757,6 +2177,11 @@
         "mensajes": {
           "translations": [
             "posts"
+          ]
+        },
+        "mucho": {
+          "translations": [
+            "a lot of"
           ]
         },
         "negocio": {
@@ -1779,9 +2204,19 @@
             "new"
           ]
         },
+        "para": {
+          "translations": [
+            "for"
+          ]
+        },
         "poco": {
           "translations": [
             "little bit"
+          ]
+        },
+        "problema": {
+          "translations": [
+            "issue"
           ]
         },
         "problemas": {
@@ -1809,11 +2244,21 @@
             "have"
           ]
         },
+        "trabajo": {
+          "translations": [
+            "worked"
+          ]
+        },
         "trabajos": {
           "translations": [
             "works"
           ]
-        },
+        }
+      }
+    },
+    "cccdb82de11265bce619c0cc26dba242": {
+      "skillName": "Emotions",
+      "words": {
         "a veces": {
           "translations": [
             "sometimes"
@@ -1904,6 +2349,11 @@
             "moms"
           ]
         },
+        "mañana": {
+          "translations": [
+            "morning"
+          ]
+        },
         "me siento": {
           "translations": [
             "I feel"
@@ -1912,6 +2362,11 @@
         "nunca": {
           "translations": [
             "never"
+          ]
+        },
+        "o": {
+          "translations": [
+            "either"
           ]
         },
         "otra vez": {
@@ -1934,9 +2389,9 @@
             "worried"
           ]
         },
-        "qué tal": {
+        "qué\n                    tal": {
           "translations": [
-            "how is it going"
+            "how&#39;s it going"
           ]
         },
         "se siente": {
@@ -1968,7 +2423,12 @@
           "translations": [
             "a little"
           ]
-        },
+        }
+      }
+    },
+    "696e588a17928ebd0102205612f36634": {
+      "skillName": "People 4",
+      "words": {
         "amigos": {
           "translations": [
             "friends"
@@ -2123,7 +2583,12 @@
           "translations": [
             "Vacations"
           ]
-        },
+        }
+      }
+    },
+    "8b63f6e8a407ad10f8165bb4b04c1a09": {
+      "skillName": "Fashion",
+      "words": {
         "bonitas": {
           "translations": [
             "pretty"
@@ -2134,9 +2599,19 @@
             "pretty"
           ]
         },
+        "camisa": {
+          "translations": [
+            "shirt"
+          ]
+        },
         "camisas": {
           "translations": [
             "shirts"
+          ]
+        },
+        "camiseta": {
+          "translations": [
+            "T shirt"
           ]
         },
         "camisetas": {
@@ -2224,6 +2699,11 @@
             "red"
           ]
         },
+        "rojo": {
+          "translations": [
+            "red"
+          ]
+        },
         "rojos": {
           "translations": [
             "reds"
@@ -2249,9 +2729,19 @@
             "use"
           ]
         },
+        "verde": {
+          "translations": [
+            "green"
+          ]
+        },
         "verdes": {
           "translations": [
             "green"
+          ]
+        },
+        "vestido": {
+          "translations": [
+            "dress"
           ]
         },
         "vestidos": {
@@ -2267,6 +2757,46 @@
         "zapatos": {
           "translations": [
             "shoes"
+          ]
+        }
+      }
+    },
+    "fd305cadb9d28577bef23ba773ba0ef5": {
+      "skillName": "Pres Tense 2",
+      "words": {
+        "prestense21": {
+          "translations": [
+            "borrow21"
+          ]
+        },
+        "prestense22": {
+          "translations": [
+            "borrow22"
+          ]
+        },
+        "prestense23": {
+          "translations": [
+            "borrow23"
+          ]
+        },
+        "prestense": {
+          "translations": [
+            "lend yourself"
+          ]
+        }
+      }
+    },
+    "99fa5b98cc4c4892c14e2baebf83ef6b": {
+      "skillName": "Travel 3",
+      "words": {
+        "a": {
+          "translations": [
+            "a"
+          ]
+        },
+        "aeropuerto": {
+          "translations": [
+            "airport"
           ]
         },
         "aeropuertos": {
@@ -2289,9 +2819,24 @@
             "buses"
           ]
         },
+        "autobús": {
+          "translations": [
+            "bus"
+          ]
+        },
+        "banco": {
+          "translations": [
+            "bank"
+          ]
+        },
         "bancos": {
           "translations": [
             "banks"
+          ]
+        },
+        "calle": {
+          "translations": [
+            "street"
           ]
         },
         "calles": {
@@ -2344,9 +2889,19 @@
             "is it so"
           ]
         },
+        "hospital": {
+          "translations": [
+            "hospital"
+          ]
+        },
         "hospitales": {
           "translations": [
             "hospitals"
+          ]
+        },
+        "hotel": {
+          "translations": [
+            "hotel"
           ]
         },
         "hoteles": {
@@ -2409,6 +2964,11 @@
             "drink"
           ]
         },
+        "tren": {
+          "translations": [
+            "train"
+          ]
+        },
         "trenes": {
           "translations": [
             "trains"
@@ -2418,7 +2978,12 @@
           "translations": [
             "travel"
           ]
-        },
+        }
+      }
+    },
+    "7de4839cb59f6114a54b4fd4a22e9daa": {
+      "skillName": "Leisure",
+      "words": {
         "abrir": {
           "translations": [
             "open"
@@ -2613,7 +3178,12 @@
           "translations": [
             "we live"
           ]
-        },
+        }
+      }
+    },
+    "4ccbe88d110b9e8003eb14c05c16a5f9": {
+      "skillName": "Activities",
+      "words": {
         "abren": {
           "translations": [
             "open"
@@ -2793,10 +3363,25 @@
           "translations": [
             "live in"
           ]
-        },
+        }
+      }
+    },
+    "f39c9f5274620166a7793fc80e314e5a": {
+      "skillName": "Preference",
+      "words": {
         "algo": {
           "translations": [
             "something"
+          ]
+        },
+        "azúcar": {
+          "translations": [
+            "sugar"
+          ]
+        },
+        "bicicleta": {
+          "translations": [
+            "bike"
           ]
         },
         "bicicletas": {
@@ -2849,6 +3434,11 @@
             "to draw"
           ]
         },
+        "elegante": {
+          "translations": [
+            "Elegant"
+          ]
+        },
         "elegantes": {
           "translations": [
             "elegant"
@@ -2859,9 +3449,24 @@
             "that"
           ]
         },
+        "ese": {
+          "translations": [
+            "that"
+          ]
+        },
+        "falda": {
+          "translations": [
+            "skirt"
+          ]
+        },
         "faldas": {
           "translations": [
             "skirts"
+          ]
+        },
+        "favorito": {
+          "translations": [
+            "favorite"
           ]
         },
         "favoritos": {
@@ -2879,7 +3484,7 @@
             "I&#39;m lovin &#39;it"
           ]
         },
-        "me gusta": {
+        "me\n                    gusta": {
           "translations": [
             "I like"
           ]
@@ -2924,9 +3529,24 @@
             "because"
           ]
         },
+        "queso": {
+          "translations": [
+            "cheese"
+          ]
+        },
         "quesos": {
           "translations": [
             "cheeses"
+          ]
+        },
+        "ropa": {
+          "translations": [
+            "clothes"
+          ]
+        },
+        "sombrero": {
+          "translations": [
+            "hat"
           ]
         },
         "sombreros": {
@@ -2963,7 +3583,12 @@
           "translations": [
             "old"
           ]
-        },
+        }
+      }
+    },
+    "4eb952cbbee236ba216f7e730c4cf44b": {
+      "skillName": "Routines",
+      "words": {
         "a menudo": {
           "translations": [
             "often"
@@ -3123,10 +3748,25 @@
           "translations": [
             "go"
           ]
+        }
+      }
+    },
+    "5618eb44ac5a570578b663a9b0864267": {
+      "skillName": "Household",
+      "words": {
+        "azul": {
+          "translations": [
+            "blue"
+          ]
         },
         "azules": {
           "translations": [
             "blue"
+          ]
+        },
+        "baño": {
+          "translations": [
+            "bathroom"
           ]
         },
         "baños": {
@@ -3383,7 +4023,12 @@
           "translations": [
             "windows"
           ]
-        },
+        }
+      }
+    },
+    "a8d9400a7bf16ddeb3ce53863e6df1e6": {
+      "skillName": "Menu",
+      "words": {
         "blanca": {
           "translations": [
             "white"
@@ -3417,6 +4062,11 @@
         "camareras": {
           "translations": [
             "waitresses"
+          ]
+        },
+        "camarero": {
+          "translations": [
+            "waiter"
           ]
         },
         "camareros": {
@@ -3479,6 +4129,11 @@
             "menus"
           ]
         },
+        "mesa": {
+          "translations": [
+            "desk"
+          ]
+        },
         "mesas": {
           "translations": [
             "tables"
@@ -3504,6 +4159,11 @@
             "they pay"
           ]
         },
+        "pagar": {
+          "translations": [
+            "to pay"
+          ]
+        },
         "pagas": {
           "translations": [
             "you pay"
@@ -3512,6 +4172,11 @@
         "pago": {
           "translations": [
             "I pay"
+          ]
+        },
+        "pescado": {
+          "translations": [
+            "fish"
           ]
         },
         "pescados": {
@@ -3549,6 +4214,16 @@
             "I&#39;d like"
           ]
         },
+        "sal": {
+          "translations": [
+            "Salt"
+          ]
+        },
+        "sin": {
+          "translations": [
+            "without"
+          ]
+        },
         "sopa": {
           "translations": [
             "Soup"
@@ -3564,14 +4239,29 @@
             "a dish"
           ]
         },
+        "vaso": {
+          "translations": [
+            "glass"
+          ]
+        },
         "vasos": {
           "translations": [
             "glasses"
           ]
-        },
+        }
+      }
+    },
+    "73d1b8443627c96e5052a31ec6c0904b": {
+      "skillName": "Family 3",
+      "words": {
         "abuelas": {
           "translations": [
             "grandmothers"
+          ]
+        },
+        "abuelo": {
+          "translations": [
+            "grandfather"
           ]
         },
         "abuelos": {
@@ -3582,6 +4272,11 @@
         "americanas": {
           "translations": [
             "american"
+          ]
+        },
+        "americano": {
+          "translations": [
+            "American"
           ]
         },
         "baloncesto": {
@@ -3617,6 +4312,11 @@
         "hermanas": {
           "translations": [
             "sisters"
+          ]
+        },
+        "hermano": {
+          "translations": [
+            "brother"
           ]
         },
         "hermanos": {
@@ -3748,7 +4448,12 @@
           "translations": [
             "I play"
           ]
-        },
+        }
+      }
+    },
+    "bcd3074f966b5aa1094a5fbc556db63e": {
+      "skillName": "Shopping 2",
+      "words": {
         "abre": {
           "translations": [
             "opens"
@@ -3760,6 +4465,11 @@
           ]
         },
         "baratas": {
+          "translations": [
+            "cheap"
+          ]
+        },
+        "barato": {
           "translations": [
             "cheap"
           ]
@@ -3802,6 +4512,11 @@
         "caras": {
           "translations": [
             "faces"
+          ]
+        },
+        "caro": {
+          "translations": [
+            "expensive"
           ]
         },
         "caros": {
@@ -3924,6 +4639,11 @@
             "you"
           ]
         },
+        "tienda": {
+          "translations": [
+            "shop"
+          ]
+        },
         "tiendas": {
           "translations": [
             "stores"
@@ -3938,7 +4658,12 @@
           "translations": [
             "twenty"
           ]
-        },
+        }
+      }
+    },
+    "9bb12ffaf0d80fe4fe99762be715fe86": {
+      "skillName": "To Be",
+      "words": {
         "tobe1": {
           "translations": [
             "tobe1"
@@ -3958,7 +4683,12 @@
           "translations": [
             "tobe"
           ]
-        },
+        }
+      }
+    },
+    "93de7426729ee71d634496c2dec1686d": {
+      "skillName": "Describe",
+      "words": {
         "abierta": {
           "translations": [
             "open"
@@ -4010,6 +4740,11 @@
           ]
         },
         "cansadas": {
+          "translations": [
+            "tired"
+          ]
+        },
+        "cansado": {
           "translations": [
             "tired"
           ]
@@ -4089,6 +4824,21 @@
             "smart"
           ]
         },
+        "limpia": {
+          "translations": [
+            "clean"
+          ]
+        },
+        "limpias": {
+          "translations": [
+            "clean"
+          ]
+        },
+        "limpio": {
+          "translations": [
+            "cleansed"
+          ]
+        },
         "morenas": {
           "translations": [
             "brunettes"
@@ -4149,6 +4899,11 @@
             "busy"
           ]
         },
+        "ocupado": {
+          "translations": [
+            "occupied"
+          ]
+        },
         "ocupados": {
           "translations": [
             "busy"
@@ -4177,6 +4932,16 @@
         "persona": {
           "translations": [
             "person"
+          ]
+        },
+        "personas": {
+          "translations": [
+            "people"
+          ]
+        },
+        "preocupado": {
+          "translations": [
+            "worried"
           ]
         },
         "preocupados": {
@@ -4243,7 +5008,12 @@
           "translations": [
             "sad"
           ]
-        },
+        }
+      }
+    },
+    "3cfd8741dbb9616057ea9645aa043348": {
+      "skillName": "Recreation",
+      "words": {
         "a mí": {
           "translations": [
             "to me"
@@ -4409,7 +5179,7 @@
             "for us"
           ]
         },
-        "para él": {
+        "para\n                    él": {
           "translations": [
             "for him"
           ]
@@ -4439,6 +5209,11 @@
             "He passed"
           ]
         },
+        "regalo": {
+          "translations": [
+            "present"
+          ]
+        },
         "río": {
           "translations": [
             "river"
@@ -4458,7 +5233,12 @@
           "translations": [
             "weather"
           ]
-        },
+        }
+      }
+    },
+    "6435eab42fe7847ee9aecff322e53085": {
+      "skillName": "Community",
+      "words": {
         "Alemania": {
           "translations": [
             "Germany"
@@ -4482,6 +5262,11 @@
         "amar": {
           "translations": [
             "to love"
+          ]
+        },
+        "ayuda": {
+          "translations": [
+            "help"
           ]
         },
         "ayudamos": {
@@ -4532,6 +5317,11 @@
         "conozco": {
           "translations": [
             "know"
+          ]
+        },
+        "diferente": {
+          "translations": [
+            "different"
           ]
         },
         "diferentes": {
@@ -4610,6 +5400,11 @@
           ]
         },
         "médicas": {
+          "translations": [
+            "medical"
+          ]
+        },
+        "médico": {
           "translations": [
             "medical"
           ]
@@ -4723,6 +5518,16 @@
           "translations": [
             "visited"
           ]
+        }
+      }
+    },
+    "a589e8da54516096003d89309b4efb46": {
+      "skillName": "Phrases 2",
+      "words": {
+        "abrigo": {
+          "translations": [
+            "coat"
+          ]
         },
         "abrigos": {
           "translations": [
@@ -4794,6 +5599,11 @@
             "desire"
           ]
         },
+        "gris": {
+          "translations": [
+            "grey"
+          ]
+        },
         "grises": {
           "translations": [
             "gray"
@@ -4837,6 +5647,11 @@
         "marrones": {
           "translations": [
             "browns"
+          ]
+        },
+        "marrón": {
+          "translations": [
+            "Brown"
           ]
         },
         "miedo": {
@@ -4903,7 +5718,12 @@
           "translations": [
             "twenty one"
           ]
-        },
+        }
+      }
+    },
+    "d91fbb75418529d3b4b844bd1d1e6196": {
+      "skillName": "Connection",
+      "words": {
         "cursos": {
           "translations": [
             "courses"
@@ -5038,7 +5858,12 @@
           "translations": [
             "they visit you"
           ]
-        },
+        }
+      }
+    },
+    "d895c669ee3122bb4857f4e4e426c6f3": {
+      "skillName": "Routines 2",
+      "words": {
         "almuerzo": {
           "translations": [
             "lunch"
@@ -5218,7 +6043,22 @@
           "translations": [
             "I take"
           ]
-        },
+        }
+      }
+    },
+    "7f0c388d962eacc138a014aa820a3468": {
+      "skillName": "Go for It!",
+      "words": {
+        "": {
+          "translations": [
+            ""
+          ]
+        }
+      }
+    },
+    "747f205391673946434ff7da3309efb8": {
+      "skillName": "Stem Changes",
+      "words": {
         "stemchanges1": {
           "translations": [
             "stemchanges1"
@@ -5238,7 +6078,12 @@
           "translations": [
             "stemchanges"
           ]
-        },
+        }
+      }
+    },
+    "0e6c224612ad5d889d00ed3512eba3de": {
+      "skillName": "Weather",
+      "words": {
         "abril": {
           "translations": [
             "April"
@@ -5254,9 +6099,9 @@
             "good time"
           ]
         },
-        "cómo está el tiempo": {
+        "cómo está el\n                    tiempo": {
           "translations": [
-            "how is the weather"
+            "how&#39;s the weather"
           ]
         },
         "diciembre": {
@@ -5403,7 +6248,12 @@
           "translations": [
             "winds"
           ]
-        },
+        }
+      }
+    },
+    "c07657840786c8754d4903c837a6c216": {
+      "skillName": "Interests",
+      "words": {
         "arte": {
           "translations": [
             "art"
@@ -5618,7 +6468,12 @@
           "translations": [
             "you travel"
           ]
-        },
+        }
+      }
+    },
+    "f5ecb24a08e22cce37b8db66dc6fa44e": {
+      "skillName": "Basic Info",
+      "words": {
         "canciones": {
           "translations": [
             "songs"
@@ -5883,7 +6738,12 @@
           "translations": [
             "I know when"
           ]
-        },
+        }
+      }
+    },
+    "e8309aa4b48506054bf91c5c23debd31": {
+      "skillName": "How Pretty",
+      "words": {
         "bajas": {
           "translations": [
             "low"
@@ -6058,7 +6918,12 @@
           "translations": [
             "so pretty"
           ]
-        },
+        }
+      }
+    },
+    "5e34ceffa9a108729d29980363c9b4df": {
+      "skillName": "Travel 4",
+      "words": {
         "adónde": {
           "translations": [
             "where to"
@@ -6238,7 +7103,12 @@
           "translations": [
             "I will"
           ]
-        },
+        }
+      }
+    },
+    "94ecb30fd1f455a3f8d380ebd78c7c40": {
+      "skillName": "Interests 2",
+      "words": {
         "ambas": {
           "translations": [
             "both"
@@ -6483,7 +7353,12 @@
           "translations": [
             "wines"
           ]
-        },
+        }
+      }
+    },
+    "d4d0b5ea21e76a604f5aee002e951a19": {
+      "skillName": "Groceries",
+      "words": {
         "bolsa": {
           "translations": [
             "bag"
@@ -6703,6 +7578,16 @@
           "translations": [
             "vegetables"
           ]
+        }
+      }
+    },
+    "c52a7ab29f625ca94ab31059177c283b": {
+      "skillName": "Requests",
+      "words": {
+        "abre": {
+          "translations": [
+            "opens"
+          ]
         },
         "abres": {
           "translations": [
@@ -6837,6 +7722,46 @@
         "vuelve": {
           "translations": [
             "returns"
+          ]
+        }
+      }
+    },
+    "82dcf52f92aa520948c5a7438ec7493c": {
+      "skillName": "To Like",
+      "words": {
+        "tolike1": {
+          "translations": [
+            "tolike1"
+          ]
+        },
+        "tolike2": {
+          "translations": [
+            "tolike2"
+          ]
+        },
+        "tolike3": {
+          "translations": [
+            "tolike3"
+          ]
+        },
+        "tolike": {
+          "translations": [
+            "tolike"
+          ]
+        }
+      }
+    },
+    "af1aef42cbfa8f71bb661f2a28986bdf": {
+      "skillName": "Routines 3",
+      "words": {
+        "cara": {
+          "translations": [
+            "expensive"
+          ]
+        },
+        "caras": {
+          "translations": [
+            "faces"
           ]
         },
         "cepillarse": {
@@ -7023,7 +7948,12 @@
           "translations": [
             "you brush"
           ]
-        },
+        }
+      }
+    },
+    "b9efda8d78116c681a3295f877838332": {
+      "skillName": "School 3",
+      "words": {
         "abriendo": {
           "translations": [
             "opening"
@@ -7163,7 +8093,12 @@
           "translations": [
             "coming out"
           ]
-        },
+        }
+      }
+    },
+    "55c5e46a4e0496a03e78513c54155fc1": {
+      "skillName": "Shopping 3",
+      "words": {
         "abro": {
           "translations": [
             "I open"
@@ -7323,7 +8258,12 @@
           "translations": [
             "Already"
           ]
-        },
+        }
+      }
+    },
+    "4465842e0efc6b32f29688d35f0912d1": {
+      "skillName": "Plans",
+      "words": {
         "cambiamos": {
           "translations": [
             "we changed"
@@ -7523,7 +8463,12 @@
           "translations": [
             "I come back"
           ]
-        },
+        }
+      }
+    },
+    "2c594c6a8d86ca6fdc10fdccb6670916": {
+      "skillName": "Tasks",
+      "words": {
         "aprendiendo a": {
           "translations": [
             "learning to"
@@ -7663,7 +8608,12 @@
           "translations": [
             "to fly"
           ]
-        },
+        }
+      }
+    },
+    "0daed943515bc7063c7775d5dcee3057": {
+      "skillName": "Clean Up",
+      "words": {
         "abres la": {
           "translations": [
             "you open the"
@@ -7863,8 +8813,18 @@
           "translations": [
             "I bring"
           ]
-        },
+        }
+      }
+    },
+    "b54ad2b30c46bc96e37c81f0aea2358d": {
+      "skillName": "Chit chat",
+      "words": {
         "almuerza": {
+          "translations": [
+            "lunch"
+          ]
+        },
+        "almuerzo": {
           "translations": [
             "lunch"
           ]
@@ -8058,7 +9018,37 @@
           "translations": [
             "seventy"
           ]
+        }
+      }
+    },
+    "fcc33806585cd3948b48757cec79552c": {
+      "skillName": "Objects",
+      "words": {
+        "objects1": {
+          "translations": [
+            "objects1"
+          ]
         },
+        "objects2": {
+          "translations": [
+            "objects2"
+          ]
+        },
+        "objects3": {
+          "translations": [
+            "objects3"
+          ]
+        },
+        "objects": {
+          "translations": [
+            "objects"
+          ]
+        }
+      }
+    },
+    "0e90c1164184742d5ba1f969efc4f81a": {
+      "skillName": "Directions",
+      "words": {
         "abajo": {
           "translations": [
             "below"
@@ -8218,7 +9208,12 @@
           "translations": [
             "take"
           ]
-        },
+        }
+      }
+    },
+    "96d5431d0a89f933e9bc74c606291ff2": {
+      "skillName": "Memories",
+      "words": {
         "aprendiste": {
           "translations": [
             "you learned"
@@ -8378,7 +9373,12 @@
           "translations": [
             "i lived"
           ]
-        },
+        }
+      }
+    },
+    "9b9bac01b0401508a0d81ba7498efca9": {
+      "skillName": "Farm",
+      "words": {
         "abrieron": {
           "translations": [
             "they opened"
@@ -8523,7 +9523,12 @@
           "translations": [
             "cows"
           ]
-        },
+        }
+      }
+    },
+    "b3ec4b7cf0813aab7181a808326123e4": {
+      "skillName": "Weekend",
+      "words": {
         "anoche": {
           "translations": [
             "last night"
@@ -8654,6 +9659,16 @@
             "we saw"
           ]
         },
+        "visitamos": {
+          "translations": [
+            "we visited"
+          ]
+        }
+      }
+    },
+    "b65bde544428e01aa005364b2e815e3d": {
+      "skillName": "Vacation",
+      "words": {
         "abriste": {
           "translations": [
             "you opened"
@@ -8788,7 +9803,12 @@
           "translations": [
             "visited"
           ]
-        },
+        }
+      }
+    },
+    "b2c93919b31cde56b1972f5f18ca9a72": {
+      "skillName": "Shopping 4",
+      "words": {
         "alguno": {
           "translations": [
             "some"
@@ -8953,7 +9973,12 @@
           "translations": [
             "last"
           ]
-        },
+        }
+      }
+    },
+    "2821c80015eed4302ecddfad315de456": {
+      "skillName": "Past Tense 1",
+      "words": {
         "pasttense11": {
           "translations": [
             "pasttense11"
@@ -8973,7 +9998,12 @@
           "translations": [
             "pasttense"
           ]
-        },
+        }
+      }
+    },
+    "bd4aa5700cfccc6915aa3fc7f42bfbff": {
+      "skillName": "Which One?",
+      "words": {
         "ahí": {
           "translations": [
             "there"
@@ -9148,7 +10178,12 @@
           "translations": [
             "lives"
           ]
-        },
+        }
+      }
+    },
+    "14b87ccbe301ef71c52a4da7bfbc6c32": {
+      "skillName": "Nature",
+      "words": {
         "calurosa": {
           "translations": [
             "hot"
@@ -9353,7 +10388,12 @@
           "translations": [
             "trees"
           ]
-        },
+        }
+      }
+    },
+    "1e15b97d850b61901f0dc298142508c4": {
+      "skillName": "Travel 5",
+      "words": {
         "algo de": {
           "translations": [
             "some"
@@ -9494,6 +10534,16 @@
             "did you come"
           ]
         },
+        "vino": {
+          "translations": [
+            "wine"
+          ]
+        }
+      }
+    },
+    "ea08eaa95524f6381d83f12bc6b8b2fc": {
+      "skillName": "School 4",
+      "words": {
         "canté": {
           "translations": [
             "sing"
@@ -9828,6 +10878,16 @@
           "translations": [
             "dresses"
           ]
+        }
+      }
+    },
+    "aa254f3960a4d47477d0051c90103d8b": {
+      "skillName": "History",
+      "words": {
+        "ayudamos": {
+          "translations": [
+            "we help"
+          ]
         },
         "ayudaste": {
           "translations": [
@@ -10083,7 +11143,12 @@
           "translations": [
             "I went"
           ]
-        },
+        }
+      }
+    },
+    "f9921012becc8237e65c87ed4802d9b7": {
+      "skillName": "Home",
+      "words": {
         "acabar": {
           "translations": [
             "finish"
@@ -10368,7 +11433,12 @@
           "translations": [
             "you got up"
           ]
-        },
+        }
+      }
+    },
+    "1d4fec3fa7fa7cbf5fd268f107b828ee": {
+      "skillName": "Choices",
+      "words": {
         "acostar+prpers": {
           "translations": [
             "lay down+prpers"
@@ -10554,6 +11624,26 @@
             "you lie down"
           ]
         },
+        "tomar": {
+          "translations": [
+            "drink"
+          ]
+        },
+        "un poco": {
+          "translations": [
+            "a little"
+          ]
+        }
+      }
+    },
+    "b3df9a994acd3d5fad4fdf2dbb6e9229": {
+      "skillName": "Work 2",
+      "words": {
+        "ayuda": {
+          "translations": [
+            "help"
+          ]
+        },
         "ayude": {
           "translations": [
             "help"
@@ -10577,6 +11667,11 @@
         "escuche": {
           "translations": [
             "I listened"
+          ]
+        },
+        "espera": {
+          "translations": [
+            "wait"
           ]
         },
         "haga": {
@@ -10674,6 +11769,21 @@
             "wow"
           ]
         },
+        "ve": {
+          "translations": [
+            "go"
+          ]
+        }
+      }
+    },
+    "f01d6b7e714bdec04f1bcbb5b7cb8fbc": {
+      "skillName": "Past Tense 2",
+      "words": {
+        "pasttense21": {
+          "translations": [
+            "pasttense21"
+          ]
+        },
         "pasttense22": {
           "translations": [
             "pasttense22"
@@ -10684,6 +11794,16 @@
             "pasttense23"
           ]
         },
+        "pasttense": {
+          "translations": [
+            "pasttense"
+          ]
+        }
+      }
+    },
+    "158f8788e9fe4329b291678a4236fff6": {
+      "skillName": "Childhood",
+      "words": {
         "alumnos": {
           "translations": [
             "students"
@@ -10828,7 +11948,12 @@
           "translations": [
             "volleyball"
           ]
-        },
+        }
+      }
+    },
+    "a6d910c7ba7bc9b1ae76a7a4f1fde102": {
+      "skillName": "Delicious!",
+      "words": {
         "aceite": {
           "translations": [
             "oil"
@@ -11073,10 +12198,20 @@
           "translations": [
             "vegetarians"
           ]
-        },
+        }
+      }
+    },
+    "decbb0436418be103aceb79ed68b4e05": {
+      "skillName": "Fun Plans",
+      "words": {
         "a lo mejor": {
           "translations": [
             "maybe"
+          ]
+        },
+        "aburrido": {
+          "translations": [
+            "bored"
           ]
         },
         "aburridísima": {
@@ -11403,10 +12538,20 @@
           "translations": [
             "theaters"
           ]
-        },
+        }
+      }
+    },
+    "9211d94611b8e68bcf4057fd21b7c4cb": {
+      "skillName": "Traditions",
+      "words": {
         "año nuevo": {
           "translations": [
             "new Year"
+          ]
+        },
+        "comía": {
+          "translations": [
+            "I used to eat"
           ]
         },
         "comíamos": {
@@ -11548,7 +12693,12 @@
           "translations": [
             "we were"
           ]
-        },
+        }
+      }
+    },
+    "5130c4c2d36cf72015bd936fafc85484": {
+      "skillName": "Social",
+      "words": {
         "acompañar": {
           "translations": [
             "accompany"
@@ -11763,7 +12913,12 @@
           "translations": [
             "come"
           ]
-        },
+        }
+      }
+    },
+    "f3cd8252dfc048557cdea5ce490f2896": {
+      "skillName": "Memories 2",
+      "words": {
         "abuelito": {
           "translations": [
             "Grandpa"
@@ -11998,7 +13153,12 @@
           "translations": [
             "had"
           ]
-        },
+        }
+      }
+    },
+    "6d95cc58a716f2cf4849446f997cc39e": {
+      "skillName": "Apartment",
+      "words": {
         "alfombras": {
           "translations": [
             "carpets"
@@ -12268,7 +13428,12 @@
           "translations": [
             "televisions"
           ]
-        },
+        }
+      }
+    },
+    "9e44ccc7bc99e08b032bae7f88a287d4": {
+      "skillName": "Health",
+      "words": {
         "actividad": {
           "translations": [
             "exercise"
@@ -12459,6 +13624,11 @@
             "move"
           ]
         },
+        "nos cepillamos": {
+          "translations": [
+            "we brush"
+          ]
+        },
         "pálida": {
           "translations": [
             "pale"
@@ -12488,7 +13658,12 @@
           "translations": [
             "you brushed"
           ]
-        },
+        }
+      }
+    },
+    "45a8db5d83388c14632284a2e6d84b3f": {
+      "skillName": "Past Tense 3",
+      "words": {
         "pasttense31": {
           "translations": [
             "pasttense31"
@@ -12504,6 +13679,16 @@
             "pasttense33"
           ]
         },
+        "pasttense": {
+          "translations": [
+            "pasttense"
+          ]
+        }
+      }
+    },
+    "b5834a871fd07cf1fe2e7f80751cd594": {
+      "skillName": "Look It Up",
+      "words": {
         "anuncio": {
           "translations": [
             "advertisement"
@@ -12688,7 +13873,12 @@
           "translations": [
             "TRUE"
           ]
-        },
+        }
+      }
+    },
+    "31ba0f646f04975ff90fcce7e7bc5e0e": {
+      "skillName": "Life",
+      "words": {
         "agricultor": {
           "translations": [
             "farmer"
@@ -12848,7 +14038,12 @@
           "translations": [
             "tools"
           ]
-        },
+        }
+      }
+    },
+    "f3111f63adc86be028d4626e3af06446": {
+      "skillName": "Last Week",
+      "words": {
         "almorzar": {
           "translations": [
             "to have lunch"
@@ -13113,7 +14308,12 @@
           "translations": [
             "several"
           ]
-        },
+        }
+      }
+    },
+    "0f75b8f930f99399e1449fc7558c99a9": {
+      "skillName": "Nostalgia",
+      "words": {
         "acompañaba": {
           "translations": [
             "accompanied"
@@ -13132,6 +14332,11 @@
         "almorzabas": {
           "translations": [
             "you had lunch"
+          ]
+        },
+        "almorzar": {
+          "translations": [
+            "to have lunch"
           ]
         },
         "almorzábamos": {
@@ -13182,6 +14387,11 @@
         "conversaban": {
           "translations": [
             "they talked"
+          ]
+        },
+        "correr": {
+          "translations": [
+            "rush"
           ]
         },
         "corría": {
@@ -13443,7 +14653,12 @@
           "translations": [
             "we were going"
           ]
-        },
+        }
+      }
+    },
+    "d48c9aec46575180bf49c9822d9aa4fd": {
+      "skillName": "Storybook",
+      "words": {
         "artista": {
           "translations": [
             "artist"
@@ -13783,7 +14998,12 @@
           "translations": [
             "fiddle"
           ]
-        },
+        }
+      }
+    },
+    "e242febb3c03894e644006813897fb25": {
+      "skillName": "Vacation 2",
+      "words": {
         "agradables": {
           "translations": [
             "nice"
@@ -14023,7 +15243,12 @@
           "translations": [
             "Opera"
           ]
-        },
+        }
+      }
+    },
+    "02013fff8a9b925aa6cbc3900bd537c6": {
+      "skillName": "Narrative",
+      "words": {
         "cajones": {
           "translations": [
             "drawers"
@@ -14313,7 +15538,12 @@
           "translations": [
             "neighbours"
           ]
-        },
+        }
+      }
+    },
+    "638cfee2a396a21076317ea6f98afb2a": {
+      "skillName": "Anecdotes",
+      "words": {
         "asaba": {
           "translations": [
             "roasted"
@@ -14573,7 +15803,12 @@
           "translations": [
             "videos"
           ]
-        },
+        }
+      }
+    },
+    "1b1a121767cb300b84d2fe99c6b1174a": {
+      "skillName": "Work 3",
+      "words": {
         "adentro": {
           "translations": [
             "inside"
@@ -14813,7 +16048,12 @@
           "translations": [
             "going"
           ]
-        },
+        }
+      }
+    },
+    "eb8b6f124457e4362a6a3fd5e4bbed65": {
+      "skillName": "Past Tense 4",
+      "words": {
         "pasttense41": {
           "translations": [
             "pasttense41"
@@ -14829,14 +16069,34 @@
             "pasttense43"
           ]
         },
+        "pasttense": {
+          "translations": [
+            "pasttense"
+          ]
+        }
+      }
+    },
+    "32fd4e6cd65e887eeaa0315fbfc52c90": {
+      "skillName": "Magic Land",
+      "words": {
         "amaban": {
           "translations": [
             "they loved"
           ]
         },
+        "amar": {
+          "translations": [
+            "to love"
+          ]
+        },
         "collar": {
           "translations": [
             "necklace"
+          ]
+        },
+        "conocer": {
+          "translations": [
+            "know"
           ]
         },
         "conocía": {
@@ -15083,7 +16343,12 @@
           "translations": [
             "visitors"
           ]
-        },
+        }
+      }
+    },
+    "3655462accdc97dab65b9e5fd85b7d24": {
+      "skillName": "History 2",
+      "words": {
         "colinas": {
           "translations": [
             "hills"
@@ -15273,7 +16538,12 @@
           "translations": [
             "areas"
           ]
-        },
+        }
+      }
+    },
+    "9c07de3e8a12425d1cdf8a995803d192": {
+      "skillName": "Daily Life",
+      "words": {
         "almorcé": {
           "translations": [
             "I lunched"
@@ -15603,7 +16873,12 @@
           "translations": [
             "get dressed"
           ]
-        },
+        }
+      }
+    },
+    "3e01c0a7d7f5d5c25de468478d583c49": {
+      "skillName": "Groceries 2",
+      "words": {
         "abrirla": {
           "translations": [
             "open it"
@@ -15853,7 +17128,12 @@
           "translations": [
             "yogurts"
           ]
-        },
+        }
+      }
+    },
+    "b11acff04422f036eefbecf259717bdb": {
+      "skillName": "School 5",
+      "words": {
         "avanzada": {
           "translations": [
             "advanced"
@@ -16049,11 +17329,41 @@
             "rules"
           ]
         },
+        "te": {
+          "translations": [
+            "tea"
+          ]
+        }
+      }
+    },
+    "5f60e46235a2acc285de7027826e817e": {
+      "skillName": "Objects 2",
+      "words": {
+        "objects21": {
+          "translations": [
+            "objects21"
+          ]
+        },
+        "objects22": {
+          "translations": [
+            "objects22"
+          ]
+        },
+        "objects23": {
+          "translations": [
+            "objects23"
+          ]
+        },
         "objects": {
           "translations": [
             "objects"
           ]
-        },
+        }
+      }
+    },
+    "c8c79b3feaf7e1ece89c43e40d1a045a": {
+      "skillName": "Hobbies",
+      "words": {
         "a lo largo de": {
           "translations": [
             "throughout"
@@ -16238,6 +17548,16 @@
           "translations": [
             "sailboat"
           ]
+        }
+      }
+    },
+    "3e253edd420fd836222489f7045cf67a": {
+      "skillName": "Experiences",
+      "words": {
+        "antes": {
+          "translations": [
+            "before"
+          ]
         },
         "aprendido": {
           "translations": [
@@ -16358,7 +17678,12 @@
           "translations": [
             "worked up"
           ]
-        },
+        }
+      }
+    },
+    "266e3c15f7dde3ef839930352524e36d": {
+      "skillName": "Work 4",
+      "words": {
         "actriz": {
           "translations": [
             "actress"
@@ -16563,8 +17888,18 @@
           "translations": [
             "receptionist"
           ]
-        },
+        }
+      }
+    },
+    "2b3a928560fa5812f41ee8d5826bbdff": {
+      "skillName": "Shopping 5",
+      "words": {
         "abran": {
+          "translations": [
+            "open"
+          ]
+        },
+        "abren": {
           "translations": [
             "open"
           ]
@@ -16572,6 +17907,11 @@
         "beban": {
           "translations": [
             "drink"
+          ]
+        },
+        "beben": {
+          "translations": [
+            "they drink"
           ]
         },
         "brazalete": {
@@ -16592,6 +17932,16 @@
         "coman": {
           "translations": [
             "eat"
+          ]
+        },
+        "comen": {
+          "translations": [
+            "eat"
+          ]
+        },
+        "compran": {
+          "translations": [
+            "they buy"
           ]
         },
         "compren": {
@@ -16748,7 +18098,12 @@
           "translations": [
             "sellers"
           ]
-        },
+        }
+      }
+    },
+    "930020ff9ea12050b99c929f374e3021": {
+      "skillName": "Health 2",
+      "words": {
         "alejada": {
           "translations": [
             "far away"
@@ -17008,7 +18363,12 @@
           "translations": [
             "see each other"
           ]
-        },
+        }
+      }
+    },
+    "72d2bab4d4af0e19e779bf2359718875": {
+      "skillName": "Years Ago",
+      "words": {
         "ama de casa": {
           "translations": [
             "Housewife"
@@ -17188,7 +18548,12 @@
           "translations": [
             "carrots"
           ]
-        },
+        }
+      }
+    },
+    "051120c47cc0c0d0da65b4842d2a2990": {
+      "skillName": "Vacation 3",
+      "words": {
         "ahorrar": {
           "translations": [
             "save"
@@ -17328,7 +18693,12 @@
           "translations": [
             "you go"
           ]
-        },
+        }
+      }
+    },
+    "6335d3e1223cdc42b376bc8c04cfdc24": {
+      "skillName": "Finished!",
+      "words": {
         "acaba de": {
           "translations": [
             "just"
@@ -17573,7 +18943,12 @@
           "translations": [
             "get dressed"
           ]
-        },
+        }
+      }
+    },
+    "72914209300b966910d3c105e761906c": {
+      "skillName": "Past Tense 5",
+      "words": {
         "past tense 51": {
           "translations": [
             "past tense 51"
@@ -17593,7 +18968,12 @@
           "translations": [
             "past tense"
           ]
-        },
+        }
+      }
+    },
+    "24383c14caece9cba01c027b2f901d3a": {
+      "skillName": "Find Out",
+      "words": {
         "asunto": {
           "translations": [
             "affair"
@@ -17813,7 +19193,12 @@
           "translations": [
             "he knows"
           ]
-        },
+        }
+      }
+    },
+    "e32793fb705cfffdb5018351a133fe0c": {
+      "skillName": "Situations",
+      "words": {
         "biología": {
           "translations": [
             "biology"
@@ -17822,6 +19207,11 @@
         "comprado": {
           "translations": [
             "bought"
+          ]
+        },
+        "conocido": {
+          "translations": [
+            "acquaintance"
           ]
         },
         "cualquier lugar": {
@@ -17958,7 +19348,12 @@
           "translations": [
             "wow"
           ]
-        },
+        }
+      }
+    },
+    "e24a0a311941d54b0798c69baf5d40ab": {
+      "skillName": "Family 4",
+      "words": {
         "abuelita": {
           "translations": [
             "granny"
@@ -18243,7 +19638,12 @@
           "translations": [
             "you get along"
           ]
-        },
+        }
+      }
+    },
+    "295be9c4c48f2ede201dc86e8dec3a95": {
+      "skillName": "Travel 6",
+      "words": {
         "anchas": {
           "translations": [
             "wide"
@@ -18458,7 +19858,12 @@
           "translations": [
             "sightseeing"
           ]
-        },
+        }
+      }
+    },
+    "a624f0201538592900865b32b22579e8": {
+      "skillName": "Future",
+      "words": {
         "adivinaremos": {
           "translations": [
             "we will guess"
@@ -18467,6 +19872,11 @@
         "cierto": {
           "translations": [
             "certain"
+          ]
+        },
+        "comer": {
+          "translations": [
+            "eat"
           ]
         },
         "comeremos": {
@@ -18793,7 +20203,12 @@
           "translations": [
             "turn you back"
           ]
-        },
+        }
+      }
+    },
+    "edccc6da479c0ecab4a72dd34ee039f7": {
+      "skillName": "School 6",
+      "words": {
         "basurero": {
           "translations": [
             "garbage collector"
@@ -19013,7 +20428,12 @@
           "translations": [
             "vocabulary"
           ]
-        },
+        }
+      }
+    },
+    "841fa4dae60243a7ad43b6577c402ee2": {
+      "skillName": "Anecdotes 2",
+      "words": {
         "anillo": {
           "translations": [
             "ring"
@@ -19388,7 +20808,12 @@
           "translations": [
             "lobby"
           ]
-        },
+        }
+      }
+    },
+    "5cfcef1295b4870312635c41ac4ee4c5": {
+      "skillName": "Travel 7",
+      "words": {
         "almohadas": {
           "translations": [
             "pillows"
@@ -19638,7 +21063,12 @@
           "translations": [
             "flight"
           ]
-        },
+        }
+      }
+    },
+    "0d480b77af68da24b041e9a25b3db980": {
+      "skillName": "Commands",
+      "words": {
         "commands1": {
           "translations": [
             "commands1"
@@ -19658,7 +21088,12 @@
           "translations": [
             "commands"
           ]
-        },
+        }
+      }
+    },
+    "89794b2e27c10d7c95bd271fd24a0c9d": {
+      "skillName": "Requests 2",
+      "words": {
         "agradecer": {
           "translations": [
             "to thank"
@@ -19869,6 +21304,11 @@
             "pass them to me"
           ]
         },
+        "tocaba": {
+          "translations": [
+            "touched"
+          ]
+        },
         "tocaste": {
           "translations": [
             "you touched"
@@ -19909,6 +21349,16 @@
             "grapes"
           ]
         },
+        "visita": {
+          "translations": [
+            "visit"
+          ]
+        }
+      }
+    },
+    "8b48e43b2b2c4f789130001b85d7e382": {
+      "skillName": "Nature 2",
+      "words": {
         "acamparemos": {
           "translations": [
             "we will camp"
@@ -20163,7 +21613,12 @@
           "translations": [
             "storm"
           ]
-        },
+        }
+      }
+    },
+    "c552bd9f6a129604ccf877177bb062a2": {
+      "skillName": "Social 2",
+      "words": {
         "ajo": {
           "translations": [
             "Garlic"
@@ -20458,6 +21913,21 @@
           "translations": [
             "soul"
           ]
+        }
+      }
+    },
+    "5e3bf8eaf7dd5923e49c25749f8af446": {
+      "skillName": "Moving In",
+      "words": {
+        "abajo": {
+          "translations": [
+            "below"
+          ]
+        },
+        "arriba": {
+          "translations": [
+            "up"
+          ]
         },
         "cuadrada": {
           "translations": [
@@ -20694,11 +22164,26 @@
             "will come"
           ]
         },
-        "vivos": {
+        "venir": {
+          "translations": [
+            "to come"
+          ]
+        },
+        "vivo": {
           "translations": [
             "alive"
           ]
         },
+        "vivos": {
+          "translations": [
+            "alive"
+          ]
+        }
+      }
+    },
+    "d27cefbed268c0ca501af1c34ba3fe93": {
+      "skillName": "Shopping 6",
+      "words": {
         "a la venta": {
           "translations": [
             "for sale"
@@ -20903,7 +22388,12 @@
           "translations": [
             "chunks"
           ]
-        },
+        }
+      }
+    },
+    "bfb6a4083b036ab9623fb39e5f940666": {
+      "skillName": "Work 5",
+      "words": {
         "acompañaremos": {
           "translations": [
             "we will accompany"
@@ -21243,7 +22733,12 @@
           "translations": [
             "lie down"
           ]
-        },
+        }
+      }
+    },
+    "18f3cc9361d90d03106660bf4cc34f6c": {
+      "skillName": "Travel 8",
+      "words": {
         "aguacate": {
           "translations": [
             "avocado"
@@ -21423,7 +22918,12 @@
           "translations": [
             "go away"
           ]
-        },
+        }
+      }
+    },
+    "bc4905aa6cdaed92f4e78ebb2f2cdede": {
+      "skillName": "Future Tense",
+      "words": {
         "futuretense1": {
           "translations": [
             "futuretense1"
@@ -21443,7 +22943,12 @@
           "translations": [
             "futuretense"
           ]
-        },
+        }
+      }
+    },
+    "34ce6da5acb111c8e5c20b38bd155107": {
+      "skillName": "Requests 3",
+      "words": {
         "contra": {
           "translations": [
             "against"
@@ -21637,6 +23142,16 @@
         "venga": {
           "translations": [
             "come on"
+          ]
+        }
+      }
+    },
+    "48b28746df9776e1600ce30a6fa7c317": {
+      "skillName": "Fiction",
+      "words": {
+        "amar": {
+          "translations": [
+            "to love"
           ]
         },
         "amaron": {
@@ -21993,7 +23508,12 @@
           "translations": [
             "I suppose"
           ]
-        },
+        }
+      }
+    },
+    "44928cec2c611f0f60e1189961f4d285": {
+      "skillName": "We Like It",
+      "words": {
         "a ella le": {
           "translations": [
             "she"
@@ -22009,7 +23529,7 @@
             "to me"
           ]
         },
-        "a mí me gusta": {
+        "a mí\n                    me gusta": {
           "translations": [
             "I like it"
           ]
@@ -22228,7 +23748,12 @@
           "translations": [
             "you like them"
           ]
-        },
+        }
+      }
+    },
+    "87cc9701ca271cb30882f95d7307d19f": {
+      "skillName": "Requests 4",
+      "words": {
         "a través de": {
           "translations": [
             "via"
@@ -22368,7 +23893,12 @@
           "translations": [
             "sports shoes"
           ]
-        },
+        }
+      }
+    },
+    "3616da9830963417cd0076dd10f83be7": {
+      "skillName": "Travel 9",
+      "words": {
         "al conducir": {
           "translations": [
             "when driving"
@@ -22543,7 +24073,12 @@
           "translations": [
             "you laugh"
           ]
-        },
+        }
+      }
+    },
+    "4b9fd70812589d13f30344e1cd7998b9": {
+      "skillName": "In Town",
+      "words": {
         "a pie": {
           "translations": [
             "walking"
@@ -22698,7 +24233,12 @@
           "translations": [
             "terrace"
           ]
-        },
+        }
+      }
+    },
+    "7c43ba21c8f80f0889fc151acc5d5006": {
+      "skillName": "Reading",
+      "words": {
         "amor": {
           "translations": [
             "love"
@@ -22998,7 +24538,12 @@
           "translations": [
             "I will see"
           ]
-        },
+        }
+      }
+    },
+    "576c9f21661f62a7c56dd16efa9a117b": {
+      "skillName": "Online",
+      "words": {
         "anteayer": {
           "translations": [
             "the day before yesterday"
@@ -23328,7 +24873,12 @@
           "translations": [
             "went back"
           ]
-        },
+        }
+      }
+    },
+    "ab32afa3af19a62f88e77acf5b40c7c6": {
+      "skillName": "Past Tense 6",
+      "words": {
         "pasttense61": {
           "translations": [
             "pasttense61"
@@ -23344,6 +24894,16 @@
             "pasttense63"
           ]
         },
+        "pasttense": {
+          "translations": [
+            "pasttense"
+          ]
+        }
+      }
+    },
+    "ee6b902717031be47f002b4de36a49c1": {
+      "skillName": "In Love",
+      "words": {
         "abrazo": {
           "translations": [
             "hug"
@@ -23533,7 +25093,12 @@
           "translations": [
             "you put on"
           ]
-        },
+        }
+      }
+    },
+    "a84f6c18b78d57a9ce56da6014595ab6": {
+      "skillName": "News",
+      "words": {
         "actual": {
           "translations": [
             "current"
@@ -23713,6 +25278,16 @@
           "translations": [
             "zones"
           ]
+        }
+      }
+    },
+    "d4d5aa3d29d859fb851e4085afb72c23": {
+      "skillName": "Studying",
+      "words": {
+        "aprobar": {
+          "translations": [
+            "Approve"
+          ]
         },
         "aprobarás": {
           "translations": [
@@ -23879,6 +25454,16 @@
             "I translate"
           ]
         },
+        "útil": {
+          "translations": [
+            "Useful"
+          ]
+        }
+      }
+    },
+    "fc8957066f1bdabb735b0b28f0ed9a8f": {
+      "skillName": "Health 3",
+      "words": {
         "antibiótico": {
           "translations": [
             "antibiotic"
@@ -23897,6 +25482,11 @@
         "así": {
           "translations": [
             "So"
+          ]
+        },
+        "bastante": {
+          "translations": [
+            "pretty"
           ]
         },
         "bastantes": {
@@ -24068,7 +25658,12 @@
           "translations": [
             "cough"
           ]
-        },
+        }
+      }
+    },
+    "0ebc7af29cb977e8eb3030c2aed97561": {
+      "skillName": "Opinions",
+      "words": {
         "decisiones": {
           "translations": [
             "decisions"
@@ -24233,7 +25828,12 @@
           "translations": [
             "unique"
           ]
-        },
+        }
+      }
+    },
+    "ed507071366b526c93db89bc5c8d04aa": {
+      "skillName": "Clothing",
+      "words": {
         "algodón": {
           "translations": [
             "cotton"
@@ -24438,7 +26038,12 @@
           "translations": [
             "total"
           ]
-        },
+        }
+      }
+    },
+    "74446339bfee95e394683296d8621225": {
+      "skillName": "Commands 2",
+      "words": {
         "commands21": {
           "translations": [
             "commands21"
@@ -24454,6 +26059,16 @@
             "commands23"
           ]
         },
+        "commands": {
+          "translations": [
+            "commands"
+          ]
+        }
+      }
+    },
+    "395673572cd1fcc7ddb33f0d0504dd02": {
+      "skillName": "Cooking",
+      "words": {
         "atún": {
           "translations": [
             "tuna"
@@ -24588,7 +26203,12 @@
           "translations": [
             "vinegar"
           ]
-        },
+        }
+      }
+    },
+    "7955db02a8bd2ac9448e29df5063fcf1": {
+      "skillName": "Advice",
+      "words": {
         "abras": {
           "translations": [
             "open"
@@ -24597,6 +26217,11 @@
         "bebas": {
           "translations": [
             "drink"
+          ]
+        },
+        "cafetería": {
+          "translations": [
+            "coffee shop"
           ]
         },
         "comas": {
@@ -24713,10 +26338,20 @@
           "translations": [
             "visit"
           ]
-        },
+        }
+      }
+    },
+    "415721619d218b5a3707a90e74353d1a": {
+      "skillName": "Warnings",
+      "words": {
         "caer": {
           "translations": [
             "fall out"
+          ]
+        },
+        "campo": {
+          "translations": [
+            "countryside"
           ]
         },
         "costa": {
@@ -24878,7 +26513,12 @@
           "translations": [
             "come on"
           ]
-        },
+        }
+      }
+    },
+    "37689e7771cccb09264c79e39940d240": {
+      "skillName": "Tourist",
+      "words": {
         "agencia": {
           "translations": [
             "agency"
@@ -25053,7 +26693,12 @@
           "translations": [
             "typical"
           ]
-        },
+        }
+      }
+    },
+    "48f72c503a80e88533e0f13ee06aa34c": {
+      "skillName": "At Home",
+      "words": {
         "adicional": {
           "translations": [
             "additional"
@@ -25232,6 +26877,16 @@
         "sección": {
           "translations": [
             "section"
+          ]
+        }
+      }
+    },
+    "ba13f8a1a23c97218cebc9f2e159dcc7": {
+      "skillName": "Habits",
+      "words": {
+        "a": {
+          "translations": [
+            "a"
           ]
         },
         "activas": {
@@ -25428,7 +27083,12 @@
           "translations": [
             "leisure"
           ]
-        },
+        }
+      }
+    },
+    "2ecb63dc79813284a7768e0a87093d56": {
+      "skillName": "Imagine",
+      "words": {
         "aprenderíamos": {
           "translations": [
             "we would learn"
@@ -25653,7 +27313,12 @@
           "translations": [
             "hits"
           ]
-        },
+        }
+      }
+    },
+    "8bcae657017f434cc2b513ab9cfef16d": {
+      "skillName": "Commands 3",
+      "words": {
         "commands31": {
           "translations": [
             "commands31"
@@ -25669,6 +27334,16 @@
             "commands33"
           ]
         },
+        "commands": {
+          "translations": [
+            "commands"
+          ]
+        }
+      }
+    },
+    "d2ac04be077d4c8490383da40d6a2354": {
+      "skillName": "At Work",
+      "words": {
         "abogada": {
           "translations": [
             "a lawyer"
@@ -25883,7 +27558,12 @@
           "translations": [
             "values"
           ]
-        },
+        }
+      }
+    },
+    "5beeb75cbe9469261db354ad23ed45c2": {
+      "skillName": "Politics",
+      "words": {
         "acuerdo": {
           "translations": [
             "agreement"
@@ -26368,7 +28048,12 @@
           "translations": [
             "violence"
           ]
-        },
+        }
+      }
+    },
+    "8c57d51ae77ad2fe17ca5384ac9cb413": {
+      "skillName": "Right Now",
+      "words": {
         "academia": {
           "translations": [
             "academy"
@@ -26522,6 +28207,16 @@
         "visitándolos": {
           "translations": [
             "visiting them"
+          ]
+        }
+      }
+    },
+    "79dd2b658dd16351bb1c3dad1b7e2510": {
+      "skillName": "People 5",
+      "words": {
+        "alguien": {
+          "translations": [
+            "someone"
           ]
         },
         "amistad": {
@@ -26758,7 +28453,12 @@
           "translations": [
             "victims"
           ]
-        },
+        }
+      }
+    },
+    "39fcf110ec468143339bee23329e7aa3": {
+      "skillName": "Places",
+      "words": {
         "ayuntamiento": {
           "translations": [
             "town hall"
@@ -26918,7 +28618,12 @@
           "translations": [
             "to come"
           ]
-        },
+        }
+      }
+    },
+    "2d9349ef4147215502211c3a95c8fe7d": {
+      "skillName": "Today",
+      "words": {
         "atletas": {
           "translations": [
             "athletes"
@@ -26968,7 +28673,12 @@
           "translations": [
             "referee"
           ]
-        },
+        }
+      }
+    },
+    "f88089f31cc1426016028b95accda61e": {
+      "skillName": "At Home 2",
+      "words": {
         "aspiradora": {
           "translations": [
             "Vacuum cleaner"
@@ -27018,7 +28728,12 @@
           "translations": [
             "you"
           ]
-        },
+        }
+      }
+    },
+    "fc38cd60ea6d6d56adaaef63279138b9": {
+      "skillName": "Imagine 2",
+      "words": {
         "arena": {
           "translations": [
             "sand"
@@ -27068,7 +28783,12 @@
           "translations": [
             "You&#39;d know"
           ]
-        },
+        }
+      }
+    },
+    "1f15d0283459708d6a2a0e44dd2cf357": {
+      "skillName": "Pronouns",
+      "words": {
         "pronouns1": {
           "translations": [
             "pronouns1"
@@ -27088,7 +28808,12 @@
           "translations": [
             "pronouns"
           ]
-        },
+        }
+      }
+    },
+    "cc9a7afc02fd9622eb33c4fbe9eacc42": {
+      "skillName": "Office",
+      "words": {
         "contestar": {
           "translations": [
             "answer"
@@ -27138,7 +28863,12 @@
           "translations": [
             "are you still"
           ]
-        },
+        }
+      }
+    },
+    "e581055c86edac1a4a22c40236be46bc": {
+      "skillName": "In Class",
+      "words": {
         "ayúdame": {
           "translations": [
             "Help me"
@@ -27188,7 +28918,12 @@
           "translations": [
             "ask him"
           ]
-        },
+        }
+      }
+    },
+    "e3a406ac2e0e093f1eeadd778ff6fbb6": {
+      "skillName": "Since Then",
+      "words": {
         "cabaña": {
           "translations": [
             "cabin"
@@ -27238,7 +28973,12 @@
           "translations": [
             "non-stop"
           ]
-        },
+        }
+      }
+    },
+    "bcf67802e8334cc7bfcabe8ec56e6dc9": {
+      "skillName": "Vacation 4",
+      "words": {
         "buscar": {
           "translations": [
             "seek"
@@ -27288,7 +29028,12 @@
           "translations": [
             "shark"
           ]
-        },
+        }
+      }
+    },
+    "a6eb0f7c9844988d4f50ec11f8388c89": {
+      "skillName": "Customs",
+      "words": {
         "costumbre": {
           "translations": [
             "custom"
@@ -27338,7 +29083,12 @@
           "translations": [
             "traditional"
           ]
-        },
+        }
+      }
+    },
+    "49d500eac1526b93bca446f59ec26a15": {
+      "skillName": "Mystery",
+      "words": {
         "asesino": {
           "translations": [
             "killer"
@@ -27388,7 +29138,12 @@
           "translations": [
             "shadow"
           ]
-        },
+        }
+      }
+    },
+    "29a13e70cb3510da8b114d349d17c9a3": {
+      "skillName": "Healthcare",
+      "words": {
         "aspirina": {
           "translations": [
             "aspirin"
@@ -27438,7 +29193,12 @@
           "translations": [
             "worry"
           ]
-        },
+        }
+      }
+    },
+    "0eb07ea308a5c33c066b572b182d5f3c": {
+      "skillName": "Past Tense 7",
+      "words": {
         "pasttense71": {
           "translations": [
             "pasttense71"
@@ -27458,7 +29218,12 @@
           "translations": [
             "pasttense"
           ]
-        },
+        }
+      }
+    },
+    "07f53434d6b009ee611daed6e12446fe": {
+      "skillName": "Traffic",
+      "words": {
         "auto": {
           "translations": [
             "auto"
@@ -27508,7 +29273,12 @@
           "translations": [
             "Location"
           ]
-        },
+        }
+      }
+    },
+    "ad96de31d51f229945f73a79597ccbf5": {
+      "skillName": "Plans 2",
+      "words": {
         "alojamiento": {
           "translations": [
             "accommodation"
@@ -27558,7 +29328,12 @@
           "translations": [
             "and yes"
           ]
-        },
+        }
+      }
+    },
+    "5ae9c62786283b1157b176ce2c61864f": {
+      "skillName": "Wishes",
+      "words": {
         "aprenda": {
           "translations": [
             "learn"
@@ -27608,7 +29383,12 @@
           "translations": [
             "live"
           ]
-        },
+        }
+      }
+    },
+    "8b492d93b130e91cd7bca18ee2dae7f4": {
+      "skillName": "Favors",
+      "words": {
         "aire acondicionado": {
           "translations": [
             "air conditioner"
@@ -27658,7 +29438,12 @@
           "translations": [
             "Wifi"
           ]
-        },
+        }
+      }
+    },
+    "49cf6be193351423fcd1b00f9e7f85ff": {
+      "skillName": "At Work 2",
+      "words": {
         "arrogante": {
           "translations": [
             "arrogant"
@@ -27674,7 +29459,7 @@
             "photocopy"
           ]
         },
-        "las afueras de la ciudad": {
+        "las afueras de la\n                    ciudad": {
           "translations": [
             "the outskirts of the city"
           ]
@@ -27708,7 +29493,12 @@
           "translations": [
             "sincere"
           ]
-        },
+        }
+      }
+    },
+    "ae8aaee35399c7ed5e4cf353f55b57eb": {
+      "skillName": "Events",
+      "words": {
         "a": {
           "translations": [
             "a"
@@ -27758,7 +29548,12 @@
           "translations": [
             "dress"
           ]
-        },
+        }
+      }
+    },
+    "e1f410b926ebdb6968b9d880d12be8d0": {
+      "skillName": "College",
+      "words": {
         "aprendan": {
           "translations": [
             "learn"
@@ -27808,7 +29603,37 @@
           "translations": [
             "sociology"
           ]
+        }
+      }
+    },
+    "e8daafe53538bd4c56b7d20f02a24dea": {
+      "skillName": "Subj 1",
+      "words": {
+        "subj11": {
+          "translations": [
+            "subj11"
+          ]
         },
+        "subj12": {
+          "translations": [
+            "subj12"
+          ]
+        },
+        "subj13": {
+          "translations": [
+            "subj13"
+          ]
+        },
+        "subj": {
+          "translations": [
+            "subj"
+          ]
+        }
+      }
+    },
+    "202fb72ae8ea07e083eef86a2cf66de0": {
+      "skillName": "Eating Out",
+      "words": {
         "elegí": {
           "translations": [
             "I chose"
@@ -27858,7 +29683,12 @@
           "translations": [
             "served"
           ]
-        },
+        }
+      }
+    },
+    "deaa3919343291813d35096ce28e8b7f": {
+      "skillName": "Intentions",
+      "words": {
         "a": {
           "translations": [
             "a"
@@ -27908,7 +29738,12 @@
           "translations": [
             "salary"
           ]
-        },
+        }
+      }
+    },
+    "2c68a1407a58c7702bff0c18719cb9f4": {
+      "skillName": "News 2",
+      "words": {
         "campeonato": {
           "translations": [
             "championship"
@@ -27958,7 +29793,12 @@
           "translations": [
             "taken"
           ]
-        },
+        }
+      }
+    },
+    "177dc4ed8d2b89ae19e42933108a6b4d": {
+      "skillName": "Free Time",
+      "words": {
         "conseguir": {
           "translations": [
             "get"
@@ -28008,7 +29848,12 @@
           "translations": [
             "season"
           ]
-        },
+        }
+      }
+    },
+    "b31c170f6507640b6e5293af0f4a0ca0": {
+      "skillName": "Sports",
+      "words": {
         "campeonas": {
           "translations": [
             "champions"
@@ -28098,7 +29943,12 @@
           "translations": [
             "tournament"
           ]
-        },
+        }
+      }
+    },
+    "b8e3a509c83c4aec9a2b9f4af1eab12a": {
+      "skillName": "Art Events",
+      "words": {
         "aburrirse": {
           "translations": [
             "get bored"
@@ -28148,7 +29998,12 @@
           "translations": [
             "latest"
           ]
-        },
+        }
+      }
+    },
+    "d997d2ad41db4733de6274f36fcf70fd": {
+      "skillName": "Banking",
+      "words": {
         "ayúdala": {
           "translations": [
             "help her"
@@ -28198,7 +30053,12 @@
           "translations": [
             "branch office"
           ]
-        },
+        }
+      }
+    },
+    "22a74b4253b7ec7ea22c428530f9864a": {
+      "skillName": "Subj 2",
+      "words": {
         "subj21": {
           "translations": [
             "subj21"
@@ -28218,7 +30078,12 @@
           "translations": [
             "subj"
           ]
-        },
+        }
+      }
+    },
+    "ed91ea08edb55f372e8fa0786ed47b34": {
+      "skillName": "Weather 2",
+      "words": {
         "despejado": {
           "translations": [
             "clear"
@@ -28268,7 +30133,12 @@
           "translations": [
             "thunder"
           ]
-        },
+        }
+      }
+    },
+    "6a8e74590f9033330110de26e34eb5ca": {
+      "skillName": "I Disagree",
+      "words": {
         "bueno": {
           "translations": [
             "well"
