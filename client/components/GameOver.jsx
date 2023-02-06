@@ -3,13 +3,10 @@ import React from 'react';
 function GameOver(props) {
   const currTotalScore = props.totalScore;
   props.setScore({ totalScore: 0, latestScore: 0 });
-  props.setRoundNumber(0);
-  props.setEnglishWord('');
-  props.setForeignWord('');
-  props.resetTimeout(false);
-
+  props.setRoundNumber(1);
+  
   const restartGame = () => {
-    setGameOver(false);
+    props.setInterstitial(false)
   }
 
   return(
