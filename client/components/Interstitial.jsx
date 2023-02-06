@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import GameOver from './GameOver.jsx';
+
 
 function Interstitial(props) {
   const currEnglishWord = props.previousEnglishWord;
@@ -11,18 +11,12 @@ function Interstitial(props) {
   }, []);
   useEffect(() => {
     setTimeout(() => {
-      if (props.roundNumber === 11) {
-        return (
-          <GameOver
-            totalScore={props.score.totalScore}
-            setScore={props.setScore}
-            setRoundNumber={props.setRoundNumber}
-            setInterstitial={props.setInterstitial}
-          />
-        );
+      if (props.roundNumber > 10) {
+       props.setGameOver(true);
+      }else{
+        props.setScore({ totalScore: props.score.totalScore, latestScore: 0 });
+        props.setInterstitial(false);
       }
-      props.setScore({ totalScore: props.score.totalScore, latestScore: 0 });
-      props.setInterstitial(false);
     }, 5000);
   });
 

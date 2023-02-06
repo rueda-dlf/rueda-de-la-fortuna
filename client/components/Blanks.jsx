@@ -10,7 +10,7 @@ function Blanks(props) {
     const [blanksArray, setBlanksArray] = useState([]);
     // split all characters from foreign word into an array
     const charArray = props.foreignWord.split('');
-    console.log(charArray);
+    //console.log(charArray);
     // code to reveal letters as time elapses
     // create array that will hold characters to hide
     const [hiddenChars, setHiddenChars] = useState([]);
@@ -21,7 +21,7 @@ function Blanks(props) {
         let tempArray = [];
         if (charArray[i] !== ' ') tempArray.push(i);
         setHiddenChars(tempArray);
-        console.log('creating hiddenChars array: ', hiddenChars);
+        //console.log('creating hiddenChars array: ', hiddenChars);
       }
     }, []);
     const letterCount = hiddenChars.length;
@@ -37,7 +37,7 @@ function Blanks(props) {
         const tempArray = [...hiddenChars];
         const tempIndex = Math.floor(Math.random() * tempArray.length);
         setHiddenChars(tempArray.splice(tempIndex, 1));
-        console.log('updating hiddenChars array');
+        //console.log('updating hiddenChars array');
       }
     }, [props.timeRemaining]);
 
@@ -59,7 +59,7 @@ function Blanks(props) {
             </div>
           );
       }
-      console.log('setting blanks array');
+      //console.log('setting blanks array');
       setBlanksArray(result);
     }, [hiddenChars]);
 
