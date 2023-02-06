@@ -31,22 +31,24 @@ function Board(props) {
     }
   }, [timeRemaining]);
 
-  useEffect(() => {
-    setInterval(() => {
-      updateTime((timeRemaining) => timeRemaining - 0.01);
-    }, 10);
-  }, []);
+  // useEffect(() => {
+  //   setInterval(() => {
+  //     updateTime((timeRemaining) => timeRemaining - 0.01);
+  //   }, 10);
+  // }, []);
   console.log('foreignWord', props.foreignWord);
   return (
-    <div id='gameboard'>
-      <div id='scorebox'>
+    <div className='flex'>
+      <div className='main-container' id='gameboard'>
         <div id='roundDisplay'>Round {props.roundNumber} of 10</div>
-        <div id='scoreDisplay'>Total Score: {props.score.totalScore}</div>
+        <div id='scorebox'>
+          <div id='scoreDisplay'>Total Score: {props.score.totalScore}</div>
+          <Timer timeRemaining={timeRemaining} updateTime={updateTime} />
+          <Blanks foreignWord={props.foreignWord} timeRemaining={timeRemaining} />
+        </div>
+        <div id='englishword'>{props.englishWord}</div>
+        <InputBox foreignWord={props.foreignWord} isGuessed={isGuessed} />
       </div>
-      <Timer timeRemaining={timeRemaining} updateTime={updateTime} />
-      <Blanks foreignWord={props.foreignWord} timeRemaining={timeRemaining} />
-      <div id='englishword'>{props.englishWord}</div>
-      <InputBox foreignWord={props.foreignWord} isGuessed={isGuessed} />
     </div>
   );
 }
