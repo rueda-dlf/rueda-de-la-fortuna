@@ -38,15 +38,20 @@ function Board(props) {
     }, 10);
   }, []);
 
-return (
+  return (
     <div className='flex'>
       <div className='main-container' id='gameboard'>
-        <div id='roundDisplay'>Round {props.roundNumber} of 10</div>
-        <div id='scorebox'>
-          <div id='scoreDisplay'>Total Score: {props.score.totalScore}</div>
-          <Timer timeRemaining={timeRemaining} updateTime={updateTime} />
-          <Blanks foreignWord={props.foreignWord} timeRemaining={timeRemaining} />
+        <div id='score-time-container'>
+          <div id='scorebox'>
+            <div id='roundDisplay'>Round {props.roundNumber} of 3</div>
+            <div id='scoreDisplay'>Total Score: {props.score.totalScore}</div>
+          </div>
+          <div id='timer'>
+            <Timer timeRemaining={timeRemaining} updateTime={updateTime} />
+          </div>
         </div>
+
+        <Blanks foreignWord={props.foreignWord} timeRemaining={timeRemaining} />
         <div id='englishword'>{props.englishWord}</div>
         <InputBox foreignWord={props.foreignWord} isGuessed={isGuessed} />
       </div>
