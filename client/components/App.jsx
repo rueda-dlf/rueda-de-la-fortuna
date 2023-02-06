@@ -7,14 +7,18 @@ function App() {
   const [roundNumber, setRoundNumber] = useState(1);
   const [englishWord, setEnglishWord] = useState('');
   const [foreignWord, setForeignWord] = useState('');
+  const [previousEnglishWord, setPreviousEnglishWord] = useState('');
+  const [previousForeignWord, setPreviousForeignWord] = useState('');
   const [showInterstitial, setInterstitial] = useState(false);
   // make a request to backend for a random word on initial load. // useEffect(() => getWords());
   useEffect(() => {
-    const i = Math.floor(Math.random() * 100);
+    const i = Math.floor(Math.random() * 6025);
 
-    fetch(`/words/${i}`)
+    fetch(`/api/db/${i}`)
       .then((res) => res.json())
       .then((words) => {
+        setPreviousEnglishWord(englishWord);
+        setPreviousForeignWord(foreignWord);
         setEnglishWord(words.englishWord);
         setForeignWord(words.spanishWord);
       })
@@ -22,7 +26,7 @@ function App() {
         console.log(`Error in retrieving words from database. ${err}`)
       );
   }, [roundNumber]);
-  
+
   // render Interstitial and Board on screen
   if (showInterstitial === true) {
     return (
@@ -30,8 +34,11 @@ function App() {
         key={1}
         score={score}
         setScore={setScore}
+        previous
         englishWord={englishWord}
         foreignWord={foreignWord}
+        previousEnglishWord={previousEnglishWord}
+        previousForeignWord={previousForeignWord}
         roundNumber={roundNumber}
         setRoundNumber={setRoundNumber}
         setInterstitial={setInterstitial}
