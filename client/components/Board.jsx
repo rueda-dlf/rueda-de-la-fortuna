@@ -19,9 +19,10 @@ function Board(props) {
       totalScore: props.score.totalScore + timeRemaining * 100,
       latestScore: timeRemaining * 100,
     });
+    props.setInterstitial(true);
   }
   if (timeRemaining <= 0) {
-    props.resetTimeout(true);
+    props.setInterstitial(true);
   }
   return (
     <div id='gameboard'>
