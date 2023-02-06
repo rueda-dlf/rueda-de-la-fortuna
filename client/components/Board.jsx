@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import React, { useState, useEffect } from 'react';
 import InputBox from './InputBox.jsx';
 import Timer from './Timer.jsx';
@@ -31,13 +32,13 @@ function Board(props) {
     }
   }, [timeRemaining]);
 
-  // useEffect(() => {
-  //   setInterval(() => {
-  //     updateTime((timeRemaining) => timeRemaining - 0.01);
-  //   }, 10);
-  // }, []);
-  console.log('foreignWord', props.foreignWord);
-  return (
+  useEffect(() => {
+    setInterval(() => {
+      updateTime((timeRemaining) => timeRemaining - 0.01);
+    }, 10);
+  }, []);
+
+return (
     <div className='flex'>
       <div className='main-container' id='gameboard'>
         <div id='roundDisplay'>Round {props.roundNumber} of 10</div>
