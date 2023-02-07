@@ -1,0 +1,269 @@
+@import url('https://fonts.googleapis.com/css2?family=Londrina+Outline&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Londrina+Solid:wght@300;900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Londrina+Solid:wght@900&display=swap');
+
+body {
+  font-family: 'Londrina Solid';
+}
+
+p {
+  margin: 0;
+}
+
+.flex {
+  display: flex;
+  justify-content: center;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 500px;
+  height: 552px;
+  border: 2px solid black;
+  text-align: center;
+  border-radius: 10px;
+}
+
+/* START */
+.main-container#startscreen {
+  border: none;
+}
+
+#startscreen h1 {
+  font-size: 50px;
+  font-weight: 300;
+}
+
+#startscreen #img {
+  width: 50px;
+  height: 50px;
+}
+
+#startscreen button {
+  height: 52px;
+  background-color: gold;
+  color: rgb(255, 255, 255);
+  font-size: 45px;
+  font-family: 'Londrina Outline';
+  font-weight: bold;
+  text-shadow: 0 0 2px black;
+  background: linear-gradient(
+    90deg,
+    rgba(255, 0, 0, 1) 0%,
+    rgba(255, 154, 0, 1) 10%,
+    rgba(208, 222, 33, 1) 20%,
+    rgba(79, 220, 74, 1) 30%,
+    rgba(63, 218, 216, 1) 40%,
+    rgba(47, 201, 226, 1) 50%,
+    rgba(28, 127, 238, 1) 60%,
+    rgba(95, 21, 242, 1) 70%,
+    rgba(186, 12, 248, 1) 80%,
+    rgba(251, 7, 217, 1) 90%,
+    rgba(255, 0, 0, 1) 100%
+  );
+  border: none;
+  border-radius: 10px;
+  padding: 0;
+}
+
+/* BOARD */
+.main-container#gameboard {
+  padding: 30px;
+  justify-content: space-between;
+  background-color: black;
+}
+
+#score-time-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-family: 'Londrina Solid';
+  color: white;
+}
+
+#englishword {
+  font-size: 45px;
+  font-family: 'Londrina Solid';
+  color: white;
+  text-shadow: 0 0 2px black;
+}
+
+/* INPUT BOX */
+.inputbox {
+  display: flex;
+  flex-direction: column;
+}
+
+.submit-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.inputbox h1 {
+  font-family: 'Londrina Solid';
+  font-size: 35px;
+  height: 50px;
+  color: white;
+}
+
+.inputbox input {
+  height: 30px;
+  width: 200px;
+  border: none;
+  border-radius: 10px;
+  margin: 0px 20px 0px 0px;
+  font-family: 'Londrina Solid';
+  padding: 0 10px;
+  text-align: center;
+  font-size: 20px;
+}
+
+.glowingbutton {
+  width: 80px;
+  height: 30px;
+  margin: none;
+  border: none;
+  outline: none;
+  color: #111;
+  background: #fff;
+  cursor: pointer;
+  position: relative;
+  z-index: 0;
+  border-radius: 10px;
+  font-family: 'Londrina Solid';
+}
+
+.gameOver .glowingbutton {
+  border: 1px black solid;
+}
+
+.glowingbutton:before {
+  content: '';
+  background: linear-gradient(
+    45deg,
+    #ff0000,
+    #ff7300,
+    #fffb00,
+    #48ff00,
+    #00ffd5,
+    #002bff,
+    #7a00ff,
+    #ff00c8,
+    #ff0000
+  );
+  position: absolute;
+  top: -2px;
+  left: -2px;
+  background-size: 400%;
+  z-index: -1;
+  filter: blur(5px);
+  width: calc(100% + 4px);
+  height: calc(100% + 4px);
+  animation: glowing 20s linear infinite;
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+  border-radius: 10px;
+}
+
+.glowingbutton:active {
+  color: #000000;
+}
+
+.glowingbutton:active:after {
+  background: transparent;
+}
+
+.glowingbutton:hover:before {
+  opacity: 1;
+}
+
+.glowingbutton:after {
+  z-index: -1;
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: #fff;
+  left: 0;
+  top: 0;
+  border-radius: 10px;
+}
+
+@keyframes glowing {
+  0% {
+    background-position: 0 0;
+  }
+  50% {
+    background-position: 400% 0;
+  }
+  100% {
+    background-position: 0 0;
+  }
+}
+
+/* BLANKS */
+.blankscontainer {
+  display: flex;
+  justify-content: center;
+}
+
+.blankcharacter,
+.blankspace {
+  width: 30px;
+  height: 30px;
+  font-size: 25px;
+  font-family: 'Londrina Solid';
+  color: white;
+  text-shadow: 0 0 2px black;
+}
+
+.blankcharacter {
+  border-bottom: solid;
+  margin: 5px;
+}
+
+/* INTERSTITIAL */
+.main-container#interstitial {
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+  font-size: 45px;
+  font-family: 'Londrina Solid';
+  color: white;
+  text-shadow: 0 0 2px black;
+  background: linear-gradient(
+    90deg,
+    rgba(255, 0, 0, 0.5) 0%,
+    rgba(255, 154, 0, 0.5) 10%,
+    rgba(208, 222, 33, 0.5) 20%,
+    rgba(79, 220, 74, 0.5) 30%,
+    rgba(63, 218, 216, 0.5) 40%,
+    rgba(47, 201, 226, 0.5) 50%,
+    rgba(28, 127, 238, 0.5) 60%,
+    rgba(95, 21, 242, 0.5) 70%,
+    rgba(186, 12, 248, 0.5) 80%,
+    rgba(251, 7, 217, 0.5) 90%,
+    rgba(255, 0, 0, 0.5) 100%
+  );
+}
+
+#rowgap {
+  font-size: 36px;
+  height: 80px;
+}
+
+/* GAME OVER */
+.gameOver {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.gameOver button {
+}
