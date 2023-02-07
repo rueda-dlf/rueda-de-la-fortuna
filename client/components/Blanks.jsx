@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* eslint-disable react/prop-types */
 // state passed from Board via props
 // foreignWord
@@ -66,3 +67,5 @@ function Blanks(props) {
 }
 
 export default Blanks;
+=======
+>>>>>>> 2cd9729dd4064872e12ea2c55aa9f5e1e663ad4f

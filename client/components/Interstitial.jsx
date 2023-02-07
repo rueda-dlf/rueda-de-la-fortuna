@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* eslint-disable react/prop-types */
 import React, { useEffect } from 'react';
 
@@ -33,3 +34,5 @@ function Interstitial(props) {
 }
 
 export default Interstitial;
+=======
+>>>>>>> 2cd9729dd4064872e12ea2c55aa9f5e1e663ad4f

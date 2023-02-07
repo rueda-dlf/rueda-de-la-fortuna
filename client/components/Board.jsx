@@ -5,7 +5,7 @@ import Timer from './Timer.jsx';
 import Blanks from './Blanks.jsx';
 
 // state passed from App via props:
-// resetTimeout (starts at false, set to true if run out of time)
+// setTimeout (starts at false, set to true if run out of time)
 // setRoundScore (starts at 0, updates on isGuessed)
 // score
 // roundNumber
@@ -15,6 +15,7 @@ import Blanks from './Blanks.jsx';
 function Board(props) {
   const [guessed, isGuessed] = useState(false);
   const [timeRemaining, updateTime] = useState(15);
+<<<<<<< HEAD
 
   useEffect(() => {
     if (guessed === true) {
@@ -38,6 +39,17 @@ function Board(props) {
     }, 10);
   }, []);
 
+=======
+  if (guessed === true) {
+    props.setScore({
+      totalScore: props.score.totalScore + timeRemaining * 100,
+      roundScore: timeRemaining * 100,
+    });
+  }
+  if (timeRemaining <= 0) {
+    props.setTimeout(true);
+  }
+>>>>>>> 2cd9729dd4064872e12ea2c55aa9f5e1e663ad4f
   return (
     <div className='flex'>
       <div className='main-container' id='gameboard'>
@@ -55,6 +67,13 @@ function Board(props) {
         <div id='englishword'>{props.englishWord}</div>
         <InputBox foreignWord={props.foreignWord} isGuessed={isGuessed} />
       </div>
+<<<<<<< HEAD
+=======
+      <Timer timeRemaining={timeRemaining} updateTime={updateTime} />
+      <Blanks foreignWord={props.foreignWord} />
+      <div id='englishword'>{props.englishWord}</div>
+      <InputBox foreignWord={props.foreignWord} isGuessed={isGuessed} />
+>>>>>>> 2cd9729dd4064872e12ea2c55aa9f5e1e663ad4f
     </div>
   );
 }

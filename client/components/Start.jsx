@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React, { useState } from 'react';
 import App from './App.jsx';
 import logoGif from '../assets/logoGif.gif';
@@ -28,3 +29,5 @@ function Start() {
 }
 
 export default Start;
+=======
+>>>>>>> 2cd9729dd4064872e12ea2c55aa9f5e1e663ad4f
