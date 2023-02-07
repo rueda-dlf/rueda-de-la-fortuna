@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* eslint-disable react/prop-types */
 // state passed from Board via props
 // foreignWord
@@ -49,11 +50,11 @@ function Blanks(props) {
         }
         // if letter is in hiddenChars array, return blank div without letter
         else if (hiddenChars.includes(i))
-          result.push(<div key={i} className='space'></div>);
+          result.push(<div key={i} className='blankcharacter'></div>);
         // otherwise return blank div with letter
         else
           result.push(
-            <div key={i} className='space'>
+            <div key={i} className='blankcharacter'>
               {charArray[i]}
             </div>
           );
@@ -66,3 +67,5 @@ function Blanks(props) {
 }
 
 export default Blanks;
+=======
+>>>>>>> 2cd9729dd4064872e12ea2c55aa9f5e1e663ad4f

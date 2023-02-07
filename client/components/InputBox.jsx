@@ -19,10 +19,12 @@ function InputBox(props) {
   return (
     <div className='inputbox'>
       <h1>Enter your guess</h1>
-      <input onChange={handleInputChange} />
-      <button className='guessButton' onClick={checkGuess}>
-        Submit
-      </button>
+      <div className='submit-container'>
+        <input onChange={handleInputChange} />
+        <button className='glowingbutton' onClick={checkGuess}>
+          Submit
+        </button>
+      </div>
     </div>
   );
 }

@@ -5,7 +5,11 @@ const express = require('express');
 
 const app = express();
 
+<<<<<<< HEAD
 const apiRouter = require('./routes/Api');
+=======
+const apiRouter = require('./routes/api');
+>>>>>>> 2cd9729dd4064872e12ea2c55aa9f5e1e663ad4f
 
 const PORT = 3000;
 
@@ -33,7 +37,10 @@ app.get('/', (req, res) => {
   return res.status(200).sendFile(path.join(__dirname, '../index.html'));
 });
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 2cd9729dd4064872e12ea2c55aa9f5e1e663ad4f
 // catch-all route handler for any requests to an unknown route
 app.use((req, res) => res.status(404).send('This is not the page you\'re looking for...'));
 

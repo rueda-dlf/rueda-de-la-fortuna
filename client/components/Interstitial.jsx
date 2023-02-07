@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* eslint-disable react/prop-types */
 import React, { useEffect } from 'react';
 
@@ -11,7 +12,7 @@ function Interstitial(props) {
   }, []);
   useEffect(() => {
     setTimeout(() => {
-      if (props.roundNumber > 10) {
+      if (props.roundNumber > 3) {
         props.setGameOver(true);
       } else {
         props.setScore({ totalScore: props.score.totalScore, latestScore: 0 });
@@ -21,12 +22,17 @@ function Interstitial(props) {
   });
 
   return (
-    <div className='main-container' id='interstitial'>
-      <div id='latestScore'>You got a score of {currLatestScore} points!</div>
-      <div id='foreignWord'>{currForeignWord} </div>
-      <div id='englishword'>{currEnglishWord}</div>
+    <div className='flex'>
+      <div className='main-container' id='interstitial'>
+        <div id='latestScore'>You got a score of {currLatestScore} points!</div>
+        <div id='rowgap'></div>
+        <div id='foreignWord'>Answer: {currForeignWord}</div>
+        <div id='englishword'>{currEnglishWord}</div>
+      </div>
     </div>
   );
 }
 
 export default Interstitial;
+=======
+>>>>>>> 2cd9729dd4064872e12ea2c55aa9f5e1e663ad4f
